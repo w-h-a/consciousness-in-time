@@ -1,7 +1,7 @@
 **Pair 1**
 
 * Sebald, *Rings of Saturn* — Notice, afterward, that you can't quite reconstruct the "plot." Ask what held it together instead. That binding-agent — association, melancholy, the walking itself — is the structural discovery. ✅
-* Robinson, *Gilead* — Notice how a dying narrator with almost nothing happening generates such pressure. Ask where the tension lives if not in event.
+* Robinson, *Gilead* — Notice how a dying narrator with almost nothing happening generates such pressure. Ask where the tension lives if not in event. ✅
 
 **Pair 2**
 
