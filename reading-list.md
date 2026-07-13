@@ -5,7 +5,7 @@
 
 **Pair 2**
 
-* Ishiguro, *The Remains of the Day* — Notice the gap between what Stevens understands and what you understand. Ask how the prose let you know more than the narrator does without ever stating it.
+* Ishiguro, *The Remains of the Day* — Notice the gap between what Stevens understands and what you understand. Ask how the prose let you know more than the narrator does without ever stating it. ✅
 * Sebald, *Austerlitz* — Notice this one has a story (a recovered childhood) where *Rings* didn't. Ask how Sebald keeps his contemplative mode intact even with a genuine narrative running underneath.
 
 **Pair 3**
@@ -36,4 +36,4 @@
 **Pair 8**
 
 * McCarthy, *The Border Trilogy* — Notice (especially in *The Crossing*) the long passages of landscape and animal attention. Ask what they're doing that no plot summary could capture.
-* Inoue, *The Hunting Gun* — Notice the whole story arrives through three letters, three consciousnesses on the same events. Ask how much is conveyed by what the letters *don't* say. (Short — read it in a sitting.)
+* Inoue, *The Hunting Gun* — Notice the whole story arrives through three letters, three consciousnesses on the same events. Ask how much is conveyed by what the letters *don't* say.
