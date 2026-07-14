@@ -16,24 +16,15 @@
 
 **Batch 4**
 
-* Lem, *His Master's Voice* — Notice there's no resolution and no scene to speak of. Ask what kept you reading a book that is almost entirely a mind thinking, and whether the withheld answer is a failure or the design.
 * Ishiguro, *The Buried Giant* — Notice the mist of collective forgetting as a literal device. Ask whether the fable form serves the mode or strains it — a book worth arguing with.
+* Lem, *His Master's Voice* — Notice there's no resolution and no scene to speak of. Ask what kept you reading a book that is almost entirely a mind thinking, and whether the withheld answer is a failure or the design.
 
 **Batch 5**
 
+* Ishiguro, *Never Let Me Go* — Notice how much horror sits under how calm a voice. Ask why the flatness of the narration makes the content land harder, not softer.
 * Robinson, *Lila* — Notice this consciousness is far less educated than Gilead's narrator. Ask how Robinson builds a wholly different interior voice while keeping her own prose discipline.
-* McCarthy, *The Road* — Notice the stripped, almost punctuation-less prose. Ask how the reduced means intensify rather than impoverish the attention.
 
 **Batch 6**
 
-* Ishiguro, *Never Let Me Go* — Notice how much horror sits under how calm a voice. Ask why the flatness of the narration makes the content land harder, not softer.
-* McCarthy, *Blood Meridian* — Notice the prose register lifting toward the biblical in the violence. Ask what the elevated language does to material that in plainer prose would be unbearable.
-
-**Batch 7**
-
 * Ishiguro, *An Artist of the Floating World* — Notice the narrator revising his own past as he tells it. Ask how self-deception becomes a structural principle rather than just a character trait.
 * Robinson, *Jack* — Notice the fourth pass through the same world, now from its most troubled consciousness. Ask what four-book accretion has done that no single novel could.
-
-**Batch 8**
-
-* McCarthy, *The Border Trilogy* — Notice (especially in *The Crossing*) the long passages of landscape and animal attention. Ask what they're doing that no plot summary could capture.
