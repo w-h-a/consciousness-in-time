@@ -23,7 +23,7 @@
 
 * Ishiguro, *Never Let Me Go* — Notice how much horror sits under how calm a voice. Ask why the flatness of the narration makes the content land harder, not softer.
 * Robinson, *Lila* — Notice this consciousness is far less educated than Gilead's narrator. Ask how Robinson builds a wholly different interior voice while keeping her own prose discipline.
-* Lem, *Solaris* — Notice how the plot keeps giving way to the "Solaristics" chapters — a century of humans failing to understand the ocean — and that Lem never lets you understand it either. Ask what the withheld answer does, and how this mind at the limits of knowledge differs from *His Master's Voice*: one facing an unreadable signal, the other its own dead returned from memory. 
+* Lem, *Memoirs Found in a Bathtub* — Notice you're sealed inside a mind that can't stop reading meaning into a world where nothing can be confirmed to mean anything — every sign might be a coded message or pure noise, and there's no plot, only the drift of interpretation. Ask where the consciousness lives when neither the world nor a plot gives you anything to hold — and how that differs from *His Master's Voice*: a mind reasoning about the unknowable from outside versus one lost inside it. 
 
 **Batch 6**
 
