@@ -16,3 +16,12 @@
 14. Robinson, *Jack*
 15. Lem, *Solaris* 
 16. Lem, *The Chain of Chance*
+
+# Author List
+
+1. Sebald
+2. Robinson
+3. Ishiguro
+4. Inoue
+5. McCarthy
+6. Lem
