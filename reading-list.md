@@ -8,14 +8,16 @@
 6. Robinson, *Gilead* ✅
 7. Ishiguro, *The Buried Giant* ✅
 8. Robinson, *Home*
-9. Lem, *His Master's Voice* 
-10. Lem, *Memoirs Found in a Bathtub*
-11. Ishiguro, *Never Let Me Go*
-12. Robinson, *Lila*
-13. Ishiguro, *An Artist of the Floating World*
-14. Robinson, *Jack*
-15. Lem, *Solaris* 
-16. Lem, *The Chain of Chance*
+9. Ishiguro, *Never Let Me Go*
+10. Lem, *His Master's Voice* 
+11. Lem, *Memoirs Found in a Bathtub*
+12. Ishiguro, *A Pale View of Hills*
+13. Robinson, *Lila*
+14. Ishiguro, *An Artist of the Floating World*
+15. Robinson, *Jack*
+16. Ishiguro, *Klara and the Sun* 
+17. Lem, *Solaris* 
+18. Lem, *The Chain of Chance*
 
 # Author List
 
