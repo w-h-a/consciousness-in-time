@@ -5,17 +5,17 @@
 3. McCarthy, *Suttree* ✅
 4. Sebald, *Austerlitz* ✅
 5. Ishiguro, *The Remains of the Day* ✅
-6. Robinson, *Gilead* ✅
-7. Ishiguro, *The Buried Giant* ✅
+6. Ishiguro, *The Buried Giant* ✅
+7. Robinson, *Gilead* ✅
 8. Robinson, *Home*
 9. Ishiguro, *Klara and the Sun* 
-10. Lem, *His Master's Voice* 
-11. Lem, *Memoirs Found in a Bathtub*
-12. Ishiguro, *Never Let Me Go*
-13. Robinson, *Lila*
-14. Ishiguro, *A Pale View of Hills*
-15. Robinson, *Jack*
-16. Ishiguro, *An Artist of the Floating World*
+10. Ishiguro, *Never Let Me Go*
+11. Robinson, *Lila*
+12. Robinson, *Jack*
+13. Ishiguro, *A Pale View of Hills*
+14. Ishiguro, *An Artist of the Floating World*
+15. Lem, *His Master's Voice* 
+16. Lem, *Memoirs Found in a Bathtub*
 17. Lem, *Solaris* 
 18. Lem, *The Chain of Chance*
 
