@@ -1,0 +1,28 @@
+name: epub
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Build the piece named in the tag
+        run: |
+          PIECE="${GITHUB_REF_NAME%-v*}"
+          echo "tag $GITHUB_REF_NAME builds piece $PIECE"
+          make epub PIECE="$PIECE"
+
+      - name: Attach the EPUB to the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload "$GITHUB_REF_NAME" build/*.epub --clobber
