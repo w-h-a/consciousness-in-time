@@ -1,9 +1,9 @@
 # Reading List
 
 1. Sebald, *Rings of Saturn* ✅
-2. Inoue, *The Hunting Gun* ✅
-3. Woolf, *Mrs. Dalloway* ✅
-4. Sebald, *Austerlitz* ✅
+2. Sebald, *Austerlitz* ✅
+3. Inoue, *The Hunting Gun* ✅
+4. Woolf, *Mrs. Dalloway* ✅
 5. Robinson, *Gilead* ✅
 6. Robinson, *Home* ✅
 7. Ishiguro, *The Remains of the Day* ✅
