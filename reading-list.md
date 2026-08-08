@@ -14,16 +14,16 @@
 12. Lem, *Memoirs Found in a Bathtub*
 13. Lem, *Solaris* 
 14. Lem, *The Chain of Chance*
-15. Woolf, *To the Lighthouse*
-16. Goethe, *The Sorrows of Young Werther*
-17. Becket, *Watt*
-18. Proust, *Swann's Way*
-19. Krasznahorkai, *Satantango*
-20. Krasznahorkai, *Melancholy of Resistance*
-21. Lispector, *The Hour of the Star*
-22. Lispector, *Augua Viva*
-23. Bernhard, *The Loser*
-24. Bernhard, *Woodcutters*
+15. Krasznahorkai, *Melancholy of Resistance*
+16. Krasznahorkai, *Satantango*
+17. Lispector, *The Hour of the Star*
+18. Lispector, *Augua Viva*
+19. Bernhard, *The Loser*
+20. Bernhard, *Woodcutters*
+21. Woolf, *To the Lighthouse*
+22. Goethe, *The Sorrows of Young Werther*
+23. Proust, *Swann's Way*
+24. Becket, *Watt*
 25. Faulkner, *As I Lay Dying*
 26. Joyce, *A Portrait of the Artist as a Young Man*
 27. Kafka, *The Trial*
@@ -39,11 +39,11 @@
 6. Goethe 1
 7. Ishiguro 4
 8. Lem 4
-9. Becket 1
-10. Proust 1
-11. Faulkner 1
-12. Joyce 1
-13. Kafka 1
-14. Sterne 1
-15. Krasznahorkai 2
-16. Bernhard 2
+9. Krasznahorkai 2
+10. Bernhard 2
+11. Proust 1
+12. Beckett 1
+13. Faulkner 1
+14. Joyce 1
+15. Kafka 1
+16. Sterne 1
