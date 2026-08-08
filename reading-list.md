@@ -17,7 +17,7 @@
 15. Krasznahorkai, *Melancholy of Resistance*
 16. Krasznahorkai, *Satantango*
 17. Lispector, *The Hour of the Star*
-18. Lispector, *Água Viva*
+18. Lispector, *Near to the Wild Heart*
 19. Bernhard, *The Loser*
 20. Bernhard, *Woodcutters*
 21. Woolf, *To the Lighthouse*
