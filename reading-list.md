@@ -11,7 +11,7 @@
 9. Ishiguro, *Klara and the Sun* ✅
 10. Ishiguro, *Never Let Me Go* ✅ 
 11. Ishiguro, *An Artist of the Floating World* ✅
-12. Ishiguro, *A Pale View of Hills*
+12. Ishiguro, *A Pale View of Hills* ✅
 13. Lem, *His Master's Voice* 
 14. Lem, *Memoirs Found in a Bathtub*
 15. Lem, *Solaris* 
