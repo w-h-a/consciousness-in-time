@@ -17,17 +17,17 @@
 15. Krasznahorkai, *Melancholy of Resistance*
 16. Krasznahorkai, *Satantango*
 17. Lispector, *The Hour of the Star*
-18. Lispector, *Augua Viva*
+18. Lispector, *Água Viva*
 19. Bernhard, *The Loser*
 20. Bernhard, *Woodcutters*
 21. Woolf, *To the Lighthouse*
 22. Goethe, *The Sorrows of Young Werther*
 23. Proust, *Swann's Way*
-24. Becket, *Watt*
+24. Beckett, *Watt*
 25. Faulkner, *As I Lay Dying*
 26. Joyce, *A Portrait of the Artist as a Young Man*
 27. Kafka, *The Trial*
-28. Sterne, *The Life and Opinions of Tristam Shandy, Gentleman*
+28. Sterne, *The Life and Opinions of Tristram Shandy, Gentleman*
 
 # Author List
 
