@@ -6,13 +6,13 @@
 4. Woolf, *Mrs. Dalloway* ✅
 5. Robinson, *Gilead* ✅
 6. Robinson, *Home* ✅
-7. Ishiguro, *The Remains of the Day* ✅
-8. Ishiguro, *Klara and the Sun* ✅
+7. Ishiguro, *An Artist of the Floating World* ✅
+8. Ishiguro, *The Remains of the Day* ✅
 9. Ishiguro, *Never Let Me Go* ✅ 
-10. Ishiguro, *An Artist of the Floating World* ✅
-11. Lem, *His Master's Voice* 
+10. Ishiguro, *Klara and the Sun* ✅
+11. Lem, *Solaris* 
 12. Lem, *Memoirs Found in a Bathtub*
-13. Lem, *Solaris* 
+13. Lem, *His Master's Voice* 
 14. Lem, *The Chain of Chance*
 15. Proust, *Swann's Way*
 16. Beckett, *Watt*
@@ -22,14 +22,14 @@
 20. Lispector, *The Hour of the Star*
 21. Bernhard, *The Loser*
 22. Bernhard, *Woodcutters*
-23. Bernhard, *Correction*
+23. Bernhard, *Old Masters*
 24. Bernhard, *Extinction*
 25. Krasznahorkai, *Satantango*
 26. Krasznahorkai, *Melancholy of Resistance*
 27. Krasznahorkai, *War and War*
 28. Krasznahorkai, *Baron Wenckheim's Homecoming*
-29. Faulkner, *As I Lay Dying*
-30. Joyce, *A Portrait of the Artist as a Young Man*
+29. Joyce, *A Portrait of the Artist as a Young Man*
+30. Faulkner, *As I Lay Dying*
 31. Kafka, *The Trial*
 32. Sterne, *The Life and Opinions of Tristram Shandy, Gentleman*
 
@@ -47,7 +47,7 @@
 10. Beckett 1
 11. Bernhard 4
 12. Krasznahorkai 4
-13. Faulkner 1
-14. Joyce 1
+13. Joyce 1
+14. Faulkner 1
 15. Kafka 1
 16. Sterne 1
