@@ -14,20 +14,24 @@
 12. Lem, *Memoirs Found in a Bathtub*
 13. Lem, *Solaris* 
 14. Lem, *The Chain of Chance*
-15. Krasznahorkai, *Melancholy of Resistance*
-16. Krasznahorkai, *Satantango*
-17. Lispector, *The Hour of the Star*
-18. Lispector, *Near to the Wild Heart*
-19. Bernhard, *The Loser*
-20. Bernhard, *Woodcutters*
-21. Woolf, *To the Lighthouse*
-22. Goethe, *The Sorrows of Young Werther*
-23. Proust, *Swann's Way*
-24. Beckett, *Watt*
-25. Faulkner, *As I Lay Dying*
-26. Joyce, *A Portrait of the Artist as a Young Man*
-27. Kafka, *The Trial*
-28. Sterne, *The Life and Opinions of Tristram Shandy, Gentleman*
+15. Proust, *Swann's Way*
+16. Beckett, *Watt*
+17. Woolf, *To the Lighthouse*
+18. Goethe, *The Sorrows of Young Werther*
+19. Lispector, *Near to the Wild Heart*
+20. Lispector, *The Hour of the Star*
+21. Bernhard, *The Loser*
+22. Bernhard, *Woodcutters*
+23. Bernhard, *Correction*
+24. Bernhard, *Extinction*
+25. Krasznahorkai, *Satantango*
+26. Krasznahorkai, *Melancholy of Resistance*
+27. Krasznahorkai, *War and War*
+28. Krasznahorkai, *Baron Wenckheim's Homecoming*
+29. Faulkner, *As I Lay Dying*
+30. Joyce, *A Portrait of the Artist as a Young Man*
+31. Kafka, *The Trial*
+32. Sterne, *The Life and Opinions of Tristram Shandy, Gentleman*
 
 # Author List
 
@@ -39,10 +43,10 @@
 6. Goethe 1
 7. Ishiguro 4
 8. Lem 4
-9. Krasznahorkai 2
-10. Bernhard 2
-11. Proust 1
-12. Beckett 1
+9.  Proust 1
+10. Beckett 1
+11. Bernhard 4
+12. Krasznahorkai 4
 13. Faulkner 1
 14. Joyce 1
 15. Kafka 1
