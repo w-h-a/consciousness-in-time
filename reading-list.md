@@ -14,7 +14,7 @@
 12. Lem, *Memoirs Found in a Bathtub*
 13. Lem, *His Master's Voice* 
 14. Lem, *The Chain of Chance*
-15. Proust, *Swann's Way*
+15. Proust, *In Search of Lost Time*
 16. Beckett, *Watt*
 17. Woolf, *To the Lighthouse*
 18. Goethe, *The Sorrows of Young Werther*
@@ -30,24 +30,44 @@
 28. Krasznahorkai, *Baron Wenckheim's Homecoming*
 29. Joyce, *A Portrait of the Artist as a Young Man*
 30. Faulkner, *As I Lay Dying*
-31. Kafka, *The Trial*
-32. Sterne, *The Life and Opinions of Tristram Shandy, Gentleman*
+31. Kafka, *Metamorphosis*
+32. Kafka, *The Trial*
+33. Camus, *The Stranger*
+34. Camus, *The Plague*
+35. Hamsun, *Hunger*
+36. Bellow, *Herzog*
+37. Nabokov, *Lolita*
+38. Ford, *The Good Soldier*
+39. Ellison, *Invisible Man*
+40. Flaubert, *Madame Bovary*
+41. Dostoevsky, *Crime and Punishment*
+42. Dostoevsky, *Brothers Karamazov*
+43. Tolstoy, *War and Peace*
+44. Tolstoy, *Anna Karenina*
 
 # Author List
 
-1. Sebald 2
-2. Robinson 2
-3. Woolf 2
-4. Lispector 2
-5. Inoue 1
-6. Goethe 1
-7. Ishiguro 4
-8. Lem 4
-9.  Proust 1
-10. Beckett 1
-11. Bernhard 4
-12. Krasznahorkai 4
-13. Joyce 1
-14. Faulkner 1
-15. Kafka 1
-16. Sterne 1
+1. Sebald 
+2. Robinson 
+3. Woolf 
+4. Lispector 
+5. Inoue 
+6. Goethe 
+7. Ishiguro 
+8. Lem 
+9. Proust 
+10. Beckett 
+11. Bernhard 
+12. Krasznahorkai 
+13. Joyce 
+14. Faulkner 
+15. Kafka 
+16. Camus 
+17. Hamsun 
+18. Bellow 
+19. Nabokov
+20. Ford
+21. Ellison
+22. Flaubert
+23. Dostoevsky
+24. Tolstoy
