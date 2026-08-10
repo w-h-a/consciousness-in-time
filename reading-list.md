@@ -14,35 +14,35 @@
 12. Lem, *Memoirs Found in a Bathtub*
 13. Lem, *His Master's Voice* 
 14. Lem, *The Chain of Chance*
-15. Proust, *In Search of Lost Time*
-16. Beckett, *Watt*
-17. Woolf, *To the Lighthouse*
-18. Goethe, *The Sorrows of Young Werther*
-19. Lispector, *Near to the Wild Heart*
-20. Lispector, *The Hour of the Star*
-21. Bernhard, *The Loser*
+15. Proust, *In Search of Lost Time* 
+16. Woolf, *To the Lighthouse* 
+17. Krasznahorkai, *Satantango* 
+18. Krasznahorkai, *Melancholy of Resistance*
+19. Krasznahorkai, *War and War*
+20. Krasznahorkai, *Baron Wenckheim's Homecoming*
+21. Bernhard, *The Loser* 
 22. Bernhard, *Woodcutters*
 23. Bernhard, *Old Masters*
 24. Bernhard, *Extinction*
-25. Krasznahorkai, *Satantango*
-26. Krasznahorkai, *Melancholy of Resistance*
-27. Krasznahorkai, *War and War*
-28. Krasznahorkai, *Baron Wenckheim's Homecoming*
-29. Joyce, *A Portrait of the Artist as a Young Man*
-30. Faulkner, *As I Lay Dying*
-31. Kafka, *Metamorphosis*
-32. Kafka, *The Trial*
-33. Camus, *The Stranger*
-34. Camus, *The Plague*
-35. Bellow, *Herzog*
-36. Nabokov, *Lolita*
-37. Hamsun, *Hunger*
-38. Ford, *The Good Soldier*
-39. Ellison, *Invisible Man*
-40. Flaubert, *Madame Bovary*
-41. Dostoevsky, *Crime and Punishment*
+25. Hamsun, *Hunger* 
+26. Bellow, *Herzog* 
+27. Nabokov, *Lolita* 
+28. Ford, *The Good Soldier* 
+29. Ellison, *Invisible Man* 
+30. Flaubert, *Madame Bovary* 
+31. Lispector, *Near to the Wild Heart*
+32. Lispector, *The Hour of the Star*
+33. Joyce, *A Portrait of the Artist as a Young Man* 
+34. Faulkner, *As I Lay Dying* 
+35. Beckett, *Watt* 
+36. Goethe, *The Sorrows of Young Werther* 
+37. Kafka, *Metamorphosis* 
+38. Kafka, *The Trial*
+39. Camus, *The Stranger* 
+40. Camus, *The Plague*
+41. Dostoevsky, *Crime and Punishment* 
 42. Dostoevsky, *Brothers Karamazov*
-43. Tolstoy, *War and Peace*
+43. Tolstoy, *War and Peace* 
 44. Tolstoy, *Anna Karenina*
 
 # Author List
