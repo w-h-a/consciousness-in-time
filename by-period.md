@@ -13,7 +13,6 @@
 ### 1800-1899
 
 - Frankenstein, Shelley, 1818
-- Madame Bovary, Flaubert, 1857
 - The Brothers Karamazov, Dostoevsky, 1880
 - Great Expectations, Dickens, 1860-61
 - Adventures of Huckleberry Finn, Twain, 1884
@@ -62,7 +61,6 @@
 ### 1800-1899
 
 - Shelley
-- Flaubert
 - Dostoevsky
 - Dickens
 - Twain
@@ -71,7 +69,6 @@
 
 ### 1900-1949
 
-- Proust
 - Kafka
 - Inoue
 - Camus
