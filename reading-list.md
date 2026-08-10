@@ -34,9 +34,9 @@
 32. Kafka, *The Trial*
 33. Camus, *The Stranger*
 34. Camus, *The Plague*
-35. Hamsun, *Hunger*
-36. Bellow, *Herzog*
-37. Nabokov, *Lolita*
+35. Bellow, *Herzog*
+36. Nabokov, *Lolita*
+37. Hamsun, *Hunger*
 38. Ford, *The Good Soldier*
 39. Ellison, *Invisible Man*
 40. Flaubert, *Madame Bovary*
