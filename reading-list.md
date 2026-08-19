@@ -10,11 +10,11 @@
 8. Ishiguro, *The Remains of the Day* ✅
 9. Ishiguro, *Never Let Me Go* ✅ 
 10. Ishiguro, *Klara and the Sun* ✅
-11. Lem, *Solaris* 
-12. Lem, *Memoirs Found in a Bathtub*
-13. Lem, *His Master's Voice* 
-14. Lem, *The Chain of Chance*
-15. Proust, *In Search of Lost Time* 
+11. Lem, *His Master's Voice* ✅
+12. Lem, *Solaris* 
+13. Lem, *Memoirs Found in a Bathtub* 
+14. Lem, *The Chain of Chance* 
+15. Proust, *In Search of Lost Time, Vol 1, 2, ...* ⏳ 
 16. Woolf, *To the Lighthouse* 
 17. Krasznahorkai, *Satantango* 
 18. Krasznahorkai, *Melancholy of Resistance*
@@ -29,45 +29,20 @@
 27. Nabokov, *Lolita* 
 28. Ford, *The Good Soldier* 
 29. Ellison, *Invisible Man* 
-30. Flaubert, *Madame Bovary* 
-31. Lispector, *Near to the Wild Heart*
-32. Lispector, *The Hour of the Star*
-33. Joyce, *A Portrait of the Artist as a Young Man* 
-34. Faulkner, *As I Lay Dying* 
+30. Goethe, *The Sorrows of Young Werther* 
+31. Joyce, *A Portrait of the Artist as a Young Man* 
+32. Joyce, *Ulysses*
+33. Faulkner, *As I Lay Dying*
+34. Faulkner, *The Sound and the Fury* 
 35. Beckett, *Watt* 
-36. Goethe, *The Sorrows of Young Werther* 
-37. Kafka, *Metamorphosis* 
-38. Kafka, *The Trial*
-39. Camus, *The Stranger* 
-40. Camus, *The Plague*
-41. Dostoevsky, *Crime and Punishment* 
-42. Dostoevsky, *Brothers Karamazov*
-43. Tolstoy, *War and Peace* 
-44. Tolstoy, *Anna Karenina*
-
-# Author List
-
-1. Sebald 
-2. Robinson 
-3. Woolf 
-4. Lispector 
-5. Inoue 
-6. Goethe 
-7. Ishiguro 
-8. Lem 
-9. Proust 
-10. Beckett 
-11. Krasznahorkai 
-12. Bernhard 
-13. Hamsun 
-14. Bellow 
-15. Nabokov
-16. Ford
-17. Ellison
-18. Flaubert
-19. Joyce 
-20. Faulkner 
-21. Kafka 
-22. Camus 
-23. Dostoevsky
-24. Tolstoy
+36. Beckett, *The Trilogy*
+37. Lispector, *Near to the Wild Heart*
+38. Lispector, *The Hour of the Star*
+39. Kafka, *Metamorphosis* 
+40. Kafka, *The Trial*
+41. Camus, *The Stranger* 
+42. Camus, *The Plague*
+43. Dostoevsky, *Crime and Punishment* 
+44. Dostoevsky, *Brothers Karamazov*
+45. Tolstoy, *War and Peace* 
+46. Tolstoy, *Anna Karenina*
