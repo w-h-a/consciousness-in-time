@@ -25,6 +25,9 @@
   
 ## Postwar
 
+- The Trilogy, Beckett, 1951-53
+- Memoirs Found in a Bathtub, Lem, 1961
+- Solaris, Lem, 1961
 - The Catcher in the Rye, Salinger, 1951
 - On the Road, Kerouac, 1957
 
@@ -66,6 +69,8 @@
 
 ## Postwar
 
+- Beckett
+- Lem
 - Salinger
 - Kerouac
 
