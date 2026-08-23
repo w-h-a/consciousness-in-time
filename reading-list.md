@@ -13,7 +13,7 @@
 11. Lem, *His Master's Voice* ✅
 12. Lem, *Solaris* ✅ 
 13. Lem, *Memoirs Found in a Bathtub* ✅
-14. Lem, *The Chain of Chance* 
+14. Lem, *The Chain of Chance* ✅
 15. Proust, *In Search of Lost Time, Vol 1, 2, ...* ⏳ 
 16. Woolf, *To the Lighthouse* 
 17. Krasznahorkai, *Satantango* 
