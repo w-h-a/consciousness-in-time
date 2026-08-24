@@ -1,7 +1,7 @@
 # All-Time Novels
 
 ## Tier 1
-*Most revolutionary use of discovering a consciousness through time.*
+*Most revolutionary use of discovering consciousness through time.*
 
 1. **An Artist of the Floating World** (Ishiguro, 1986) 
 2. **The Remains of the Day** (Ishiguro, 1989) 

@@ -15,16 +15,16 @@
 13. Lem, *Memoirs Found in a Bathtub* ✅
 14. Lem, *The Chain of Chance* ✅
 15. Proust, *In Search of Lost Time, Vol 1, 2, ...* ⏳ 
-16. Woolf, *To the Lighthouse* 
-17. Krasznahorkai, *Satantango* 
-18. Krasznahorkai, *Melancholy of Resistance*
+16. Woolf, *To the Lighthouse* ⏳
+17. Krasznahorkai, *Satantango* (Re-read)⏳
+18. Krasznahorkai, *Melancholy of Resistance* (Re-read)
 19. Krasznahorkai, *War and War*
 20. Krasznahorkai, *Baron Wenckheim's Homecoming*
 21. Bernhard, *The Loser* 
 22. Bernhard, *Woodcutters*
 23. Bernhard, *Old Masters*
 24. Bernhard, *Extinction*
-25. Beckett, *The Trilogy*
+25. Beckett, *The Trilogy* (Re-read)
 26. Beckett, *Watt* 
 27. Hamsun, *Hunger* 
 28. Bellow, *Herzog* 
@@ -38,11 +38,11 @@
 36. Faulkner, *The Sound and the Fury* 
 37. Lispector, *Near to the Wild Heart*
 38. Lispector, *The Hour of the Star*
-39. Kafka, *Metamorphosis* 
-40. Kafka, *The Trial*
-41. Camus, *The Stranger* 
-42. Camus, *The Plague*
-43. Dostoevsky, *Crime and Punishment* 
-44. Dostoevsky, *Brothers Karamazov*
+39. Kafka, *Metamorphosis* (Re-read)
+40. Kafka, *The Trial* (Re-read)
+41. Camus, *The Stranger* (Re-read)
+42. Camus, *The Plague* (Re-read)
+43. Dostoevsky, *Crime and Punishment* (Re-read) 
+44. Dostoevsky, *Brothers Karamazov* (Re-read)
 45. Tolstoy, *War and Peace* 
 46. Tolstoy, *Anna Karenina*
