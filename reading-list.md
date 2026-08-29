@@ -18,31 +18,29 @@
 16. Woolf, *To the Lighthouse* ⏳
 17. Krasznahorkai, *Satantango* (Re-read) ⏳
 18. Krasznahorkai, *Melancholy of Resistance* (Re-read) ⏳
-19. Krasznahorkai, *War and War*
-20. Krasznahorkai, *Baron Wenckheim's Homecoming*
-21. Bernhard, *The Loser* 
-22. Bernhard, *Woodcutters*
-23. Bernhard, *Old Masters*
-24. Bernhard, *Extinction*
-25. Beckett, *The Trilogy* (Re-read)
-26. Beckett, *Watt* 
-27. Lispector, *Near to the Wild Heart*
-28. Lispector, *The Hour of the Star*
-29. Joyce, *A Portrait of the Artist as a Young Man* 
-30. Joyce, *Ulysses*
-31. Faulkner, *As I Lay Dying*
-32. Faulkner, *The Sound and the Fury* 
-33. Hamsun, *Hunger* 
-34. Bellow, *Herzog* 
-35. Nabokov, *Lolita* 
-36. Ford, *The Good Soldier* 
-37. Ellison, *Invisible Man* 
-38. Goethe, *The Sorrows of Young Werther* 
-39. Kafka, *Metamorphosis* (Re-read)
-40. Kafka, *The Trial* (Re-read)
-41. Camus, *The Stranger* (Re-read)
-42. Camus, *The Plague* (Re-read)
-43. Dostoevsky, *Crime and Punishment* (Re-read) 
-44. Dostoevsky, *Brothers Karamazov* (Re-read)
-45. Tolstoy, *War and Peace* 
-46. Tolstoy, *Anna Karenina*
+19. Bernhard, *The Loser* 
+20. Bernhard, *Woodcutters*
+21. Bernhard, *Old Masters*
+22. Bernhard, *Extinction*
+23. Beckett, *The Trilogy* (Re-read)
+24. Beckett, *Watt* 
+25. Lispector, *Near to the Wild Heart*
+26. Lispector, *The Hour of the Star*
+27. Joyce, *A Portrait of the Artist as a Young Man* 
+28. Joyce, *Ulysses*
+29. Faulkner, *As I Lay Dying*
+30. Faulkner, *The Sound and the Fury* 
+31. Hamsun, *Hunger* 
+32. Bellow, *Herzog* 
+33. Nabokov, *Lolita* 
+34. Ford, *The Good Soldier* 
+35. Ellison, *Invisible Man* 
+36. Goethe, *The Sorrows of Young Werther* 
+37. Kafka, *Metamorphosis* (Re-read)
+38. Kafka, *The Trial* (Re-read)
+39. Camus, *The Stranger* (Re-read)
+40. Camus, *The Plague* (Re-read)
+41. Dostoevsky, *Crime and Punishment* (Re-read) 
+42. Dostoevsky, *Brothers Karamazov* (Re-read)
+43. Tolstoy, *War and Peace* 
+44. Tolstoy, *Anna Karenina*
