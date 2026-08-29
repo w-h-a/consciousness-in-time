@@ -28,8 +28,8 @@
 26. Beckett, *Watt* 
 27. Lispector, *Near to the Wild Heart*
 28. Lispector, *The Hour of the Star*
-29. Joyce, *Ulysses*
-30. Joyce, *A Portrait of the Artist as a Young Man* 
+29. Joyce, *A Portrait of the Artist as a Young Man* 
+30. Joyce, *Ulysses*
 31. Faulkner, *As I Lay Dying*
 32. Faulkner, *The Sound and the Fury* 
 33. Hamsun, *Hunger* 
