@@ -26,18 +26,18 @@
 24. Bernhard, *Extinction*
 25. Beckett, *The Trilogy* (Re-read)
 26. Beckett, *Watt* 
-27. Hamsun, *Hunger* 
-28. Bellow, *Herzog* 
-29. Nabokov, *Lolita* 
-30. Ford, *The Good Soldier* 
-31. Ellison, *Invisible Man* 
-32. Goethe, *The Sorrows of Young Werther* 
-33. Joyce, *A Portrait of the Artist as a Young Man* 
-34. Joyce, *Ulysses*
-35. Faulkner, *As I Lay Dying*
-36. Faulkner, *The Sound and the Fury* 
-37. Lispector, *Near to the Wild Heart*
-38. Lispector, *The Hour of the Star*
+27. Lispector, *Near to the Wild Heart*
+28. Lispector, *The Hour of the Star*
+29. Joyce, *Ulysses*
+30. Joyce, *A Portrait of the Artist as a Young Man* 
+31. Faulkner, *As I Lay Dying*
+32. Faulkner, *The Sound and the Fury* 
+33. Hamsun, *Hunger* 
+34. Bellow, *Herzog* 
+35. Nabokov, *Lolita* 
+36. Ford, *The Good Soldier* 
+37. Ellison, *Invisible Man* 
+38. Goethe, *The Sorrows of Young Werther* 
 39. Kafka, *Metamorphosis* (Re-read)
 40. Kafka, *The Trial* (Re-read)
 41. Camus, *The Stranger* (Re-read)
