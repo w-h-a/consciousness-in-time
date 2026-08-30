@@ -25,14 +25,15 @@
 13. **The Stranger** (Camus, 1942)
 
 ## Tier 4
-*Monumental, superbly crafted novels.*
+*Superbly crafted novels.*
 
 14. **The Brothers Karamazov** (Dostoevsky, 1880)
 15. **Solaris** (Lem, 1961)
 16. **Great Expectations** (Dickens, 1860–61)
-17. **Adventures of Huckleberry Finn** (Twain, 1884)
-18. **1984** (Orwell, 1949)
-19. **Grapes of Wrath** (Steinbeck, 1939)
-20. **Frankenstein** (Shelley, 1818)
-21. **The Catcher in the Rye** (Salinger, 1951)
-22. **On the Road** (Kerouac, 1957)
+17. **The Buried Giant** (Ishiguro, 2015)
+18. **Adventures of Huckleberry Finn** (Twain, 1884)
+19. **1984** (Orwell, 1949)
+20. **Grapes of Wrath** (Steinbeck, 1939)
+21. **Frankenstein** (Shelley, 1818)
+22. **The Catcher in the Rye** (Salinger, 1951)
+23. **On the Road** (Kerouac, 1957)

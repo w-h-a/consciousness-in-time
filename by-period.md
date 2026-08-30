@@ -41,6 +41,7 @@
 - Austerlitz, Sebald, 2001
 - Never Let Me Go, Ishiguro, 2005
 - Klara and the Sun, Ishiguro, 2021
+- The Buried Giant, Ishiguro, 2015
 
 # Authors by Period
 
