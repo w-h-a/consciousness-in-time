@@ -10,13 +10,13 @@
 5. **The Trilogy: Molloy / Malone Dies / The Unnamable** (Becket, 1951-53)
 6. **Memoirs Found in a Bathtub** (Lem, 1961)
 7. **The Rings of Saturn** (Sebald, 1995) 
-8. **Austerlitz** (Sebald, 2001) 
+8. **Austerlitz** (Sebald, 2001)
+9. **Never Let Me Go** (Ishiguro, 2005)
+10. **Klara and the Sun** (Ishiguro, 2021)
 
 ## Tier 2
 
-9. **The Hunting Gun** (Inoue, 1949) 
-10. **Never Let Me Go** (Ishiguro, 2005)
-11. **Klara and the Sun** (Ishiguro, 2021) 
+11. **The Hunting Gun** (Inoue, 1949) 
 
 ## Tier 3
 *Radically inventive but not in the manner above.*
