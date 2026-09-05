@@ -14,11 +14,11 @@
 12. Lem, *Solaris* ✅ 
 13. Lem, *Memoirs Found in a Bathtub* ✅
 14. Lem, *The Chain of Chance* ✅
-15. Krasznahorkai, *Melancholy of Resistance* (Re-read) ✅
-16. Krasznahorkai, *Satantango* (Re-read) ⏳
-17. Woolf, *To the Lighthouse* ⏳
-18. Proust, *In Search of Lost Time, Vol 1, 2, ...* ⏸️ 
-19. Bernhard, *The Loser* 
+15. Proust, *In Search of Lost Time, Vol 1, 2, ...* ⏸️ 
+16. Woolf, *To the Lighthouse* ✅
+17. Krasznahorkai, *Melancholy of Resistance* (Re-read) ✅
+18. Krasznahorkai, *Satantango* (Re-read) ⏳
+19. Bernhard, *The Loser* ⏳ 
 20. Bernhard, *Woodcutters*
 21. Bernhard, *Old Masters*
 22. Bernhard, *Extinction*
