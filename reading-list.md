@@ -22,10 +22,10 @@
 20. Bernhard, *Extinction* ✅
 21. Beckett, *The Trilogy* (Re-read) ⏳
 22. Beckett, *Watt* (Re-read) ⏳
-23. Faulkner, *As I Lay Dying*
-24. Faulkner, *The Sound and the Fury* 
-25. Joyce, *Dubliners* (Re-read)
-26. Joyce, *A Portrait of the Artist as a Young Man* 
+23. Joyce, *Dubliners* (Re-read)
+24. Joyce, *A Portrait of the Artist as a Young Man* 
+25. Faulkner, *As I Lay Dying*
+26. Faulkner, *The Sound and the Fury* 
 27. Nabokov, *Lolita*
 28. Nabokov, *Pale Fire* 
 29. Hamsun, *Hunger* 
