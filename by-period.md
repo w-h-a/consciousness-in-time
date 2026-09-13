@@ -14,6 +14,7 @@
 - Great Expectations, Dickens, 1860-61
 - Adventures of Huckleberry Finn, Twain, 1884
 - Frankenstein, Shelley, 1818
+- Dracula, Stoker, 1897
 
 ## Modernism
 
@@ -22,12 +23,14 @@
 - The Stranger, Camus, 1942
 - 1984, Orwell, 1949
 - The Grapes of Wrath, Steinbeck, 1939
+- A Farewell to Arms, Hemingway, 1929
   
 ## Postwar
 
-- The Trilogy, Beckett, 1951-53
 - Watt, Beckett, 1953
+- The Trilogy, Beckett, 1951-53
 - Memoirs Found in a Bathtub, Lem, 1961
+- Solaris, Lem, 1961
 - The Catcher in the Rye, Salinger, 1951
 - On the Road, Kerouac, 1957
 
@@ -60,6 +63,7 @@
 - Dickens
 - Twain
 - Shelley
+- Stoker
 
 ## Modernism
 
@@ -68,6 +72,7 @@
 - Camus
 - Orwell
 - Steinbeck
+- Hemingway
 
 ## Postwar
 
