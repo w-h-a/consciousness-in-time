@@ -60,23 +60,23 @@
 58. Stoker, *Dracula* (Re-read)
 59. Conrad, *Heart of Darkness* (Re-read)
 60. Conrad, *Nostromo*
-61. Wharton, *The Age of Innocence*
-62. Mann, *The Magic Mountain*
-63. Fitzgerald, *The Great Gatsby*
-64. Hemingway, *A Farewell to Arms* (Re-read)
-65. Hurston, *Their Eyes Were Watching God*
-66. Kawabata, *Snow Country*
-67. Steinbeck, *Grapes of Wrath* (Re-read)
-68. Wright, *Native Son*
-69. Borges, *Ficciones*
-70. Orwell, *1984* (Re-read)
-71. Lampedusa, *The Leopard*
-72. Achebe, *Things Fall Apart*
-73. Fuentes, *The Death of Artemio Cruz*
-74. García Márquez, *One Hundred Years of Solitude*
-75. Pynchon, *Gravity's Rainbow*
-76. Calvino, *If on a Winter's Night a Traveler*
-77. Kundera, *The Unbearable Lightness of Being*
-78. Morrison, *Beloved*
-79. Krasznahorkai, *War and War*
-80. Krasznahorkai, *Baron Wenckheim's Homecoming*
+61. Bely, *Petersburg*
+62. Wharton, *The Age of Innocence*
+63. Mann, *The Magic Mountain*
+64. Fitzgerald, *The Great Gatsby*
+65. Hemingway, *A Farewell to Arms* (Re-read)
+66. Hurston, *Their Eyes Were Watching God*
+67. Kawabata, *Snow Country*
+68. Steinbeck, *Grapes of Wrath* (Re-read)
+69. Lowry, *Under the Volcano*
+70. Wright, *Native Son*
+71. Borges, *Ficciones*
+72. Orwell, *1984* (Re-read)
+73. Lampedusa, *The Leopard*
+74. Achebe, *Things Fall Apart*
+75. Fuentes, *The Death of Artemio Cruz*
+76. García Márquez, *One Hundred Years of Solitude*
+77. Pynchon, *Gravity's Rainbow*
+78. Calvino, *If on a Winter's Night a Traveler*
+79. Kundera, *The Unbearable Lightness of Being*
+80. Morrison, *Beloved*
