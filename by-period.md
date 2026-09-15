@@ -30,22 +30,20 @@
 - Watt, Beckett, 1953
 - The Trilogy, Beckett, 1951-53
 - Memoirs Found in a Bathtub, Lem, 1961
-- Solaris, Lem, 1961
 - The Catcher in the Rye, Salinger, 1951
 - On the Road, Kerouac, 1957
 
 ## Contemporary (1980- )
 
-- An Artist of the Floating World, Ishiguro, 1986
-- The Remains of the Day, Ishiguro, 1989
-- The Melancholy of Resistance, Krasznahorkai, 1989
 - Extinction, Bernhard, 1986
+- The Melancholy of Resistance, Krasznahorkai, 1989
 - Sátántangó, Krasznahorkai, 1985
 - Trilogy of the Arts, Bernhard, 1983-85
+- An Artist of the Floating World, Ishiguro, 1986
+- The Remains of the Day, Ishiguro, 1989
 - The Rings of Saturn, Sebald, 1995
 - Never Let Me Go, Ishiguro, 2005
 - Klara and the Sun, Ishiguro, 2021
-- The Buried Giant, Ishiguro, 2015
 
 # Authors by Period
 
@@ -83,7 +81,7 @@
 
 ## Contemporary (1980- )
 
-- Ishiguro
-- Krasznahorkai
 - Bernhard
+- Krasznahorkai
+- Ishiguro
 - Sebald
