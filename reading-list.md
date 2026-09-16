@@ -16,34 +16,34 @@
 14. Woolf, *To the Lighthouse* ✅
 15. Krasznahorkai, *Satantango* (Re-read) ✅
 16. Krasznahorkai, *Melancholy of Resistance* (Re-read) ✅
-17. Bernhard, *Trilogy of the Arts* ✅ 
-18. Bernhard, *Extinction* ✅
-19. Beckett, *The Trilogy* (Re-read) ⏳
-20. Beckett, *Watt* (Re-read) ⏳
-21. Joyce, *Dubliners* (Re-read)
-22. Joyce, *A Portrait of the Artist as a Young Man* 
-23. Faulkner, *As I Lay Dying*
-24. Faulkner, *The Sound and the Fury* 
-25. Nabokov, *Lolita*
-26. Nabokov, *Pale Fire* 
-27. Lispector, *Near to the Wild Heart*
-28. Lispector, *The Hour of the Star*
+17. Bernhard, *Correction* ✅
+18. Bernhard, *Concrete* ✅
+19. Bernhard, *Trilogy of the Arts* ✅ 
+20. Bernhard, *Extinction* ✅
+21. Beckett, *The Trilogy* (Re-read) ⏳
+22. Beckett, *Watt* (Re-read) ⏳
+23. Joyce, *Dubliners* (Re-read)
+24. Joyce, *A Portrait of the Artist as a Young Man* 
+25. Faulkner, *As I Lay Dying*
+26. Faulkner, *The Sound and the Fury* 
+27. Nabokov, *Lolita*
+28. Nabokov, *Pale Fire* 
 29. Hamsun, *Hunger* 
 30. Ford, *The Good Soldier* 
-31. Ellison, *Invisible Man* 
-32. Goethe, *The Sorrows of Young Werther* 
+31. Lispector, *Near to the Wild Heart*
+32. Lispector, *The Hour of the Star*
 33. Kafka, *Metamorphosis* (Re-read)
 34. Kafka, *The Trial* (Re-read)
 35. Camus, *The Stranger* (Re-read)
 36. Camus, *The Plague* (Re-read)
-37. Cervantes, *Don Quixote*
-38. Austen, *Emma*
-39. Shelley, *Frankenstein* (Re-read)
-40. Brontë (Emily), *Wuthering Heights*
-41. Brontë (Charlotte), *Jane Eyre*
-42. Thackeray, *Vanity Fair*
-43. Hawthorne, *The Scarlet Letter*
-44. Dickens, *Bleak House*
+37. Cervantes, *Don Quixote* (**Before 1700**)
+38. Goethe, *The Sorrows of Young Werther* (**18th Century**)
+39. Austen, *Emma* (**19th Century**)
+40. Shelley, *Frankenstein* (Re-read)
+41. Brontë (Emily), *Wuthering Heights*
+42. Brontë (Charlotte), *Jane Eyre*
+43. Thackeray, *Vanity Fair*
+44. Hawthorne, *The Scarlet Letter*
 45. Flaubert, *Madame Bovary*
 46. Collins, *The Woman in White*
 47. Dostoevsky, *Crime and Punishment* (Re-read) 
@@ -54,7 +54,7 @@
 52. Eliot, *Middlemarch*
 53. Hardy, *Tess of the d'Urbervilles*
 54. Stoker, *Dracula* (Re-read)
-55. Conrad, *Heart of Darkness* (Re-read)
+55. Conrad, *Heart of Darkness* (Re-read) (**Modernism**)
 56. Conrad, *Nostromo*
 57. Bely, *Petersburg*
 58. Wharton, *The Age of Innocence*
@@ -68,15 +68,15 @@
 66. Wright, *Native Son*
 67. Borges, *Ficciones*
 68. Orwell, *1984* (Re-read)
-69. Lampedusa, *The Leopard*
-70. Achebe, *Things Fall Apart*
-71. Fuentes, *The Death of Artemio Cruz*
-72. García Márquez, *One Hundred Years of Solitude*
-73. Pynchon, *Gravity's Rainbow*
-74. Calvino, *If on a Winter's Night a Traveler*
-75. Bernhard, *Correction*
-76. Bernhard, *Concrete*
-77. Kundera, *The Unbearable Lightness of Being*
+69. Ellison, *Invisible Man* (**Postwar**)
+70. Lampedusa, *The Leopard*
+71. Achebe, *Things Fall Apart*
+72. Fuentes, *The Death of Artemio Cruz*
+73. Bellow, *Herzog*
+74. García Márquez, *One Hundred Years of Solitude*
+75. Pynchon, *Gravity's Rainbow*
+76. Calvino, *If on a Winter's Night a Traveler*
+77. Kundera, *The Unbearable Lightness of Being* (**Contemporary**)
 78. Morrison, *Beloved*
 79. Krasznahorkai, *War and War*
 80. Krasznahorkai, *Baron Wenckheim's Homecoming*
