@@ -28,7 +28,6 @@
 ## Postwar
 
 - Watt, Beckett, 1953
-- Correction, Bernhard, 1975
 - The Trilogy, Beckett, 1951-53
 - Memoirs Found in a Bathtub, Lem, 1961
 - The Catcher in the Rye, Salinger, 1951
@@ -37,10 +36,11 @@
 ## Contemporary (1980- )
 
 - Extinction, Bernhard, 1986
+- Concrete, Bernhard, 1982
 - The Melancholy of Resistance, Krasznahorkai, 1989
 - Sátántangó, Krasznahorkai, 1985
-- Concrete, Bernhard, 1982
-- Trilogy of the Arts, Bernhard, 1983-85
+- Woodcutters, Bernhard, 1984
+- Old Masters, Bernhard, 1985
 - An Artist of the Floating World, Ishiguro, 1986
 - The Remains of the Day, Ishiguro, 1989
 - The Rings of Saturn, Sebald, 1995
