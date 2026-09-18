@@ -16,8 +16,8 @@
 14. Woolf, *To the Lighthouse* ✅
 15. Krasznahorkai, *Satantango* (Re-read) ✅
 16. Krasznahorkai, *Melancholy of Resistance* (Re-read) ✅
-17. Bernhard, *Correction* ✅
-18. Bernhard, *Concrete* ✅
+17. Bernhard, *Concrete* ✅
+18. Bernhard, *Wittgenstein's Nephew* ✅
 19. Bernhard, *Trilogy of the Arts* ✅ 
 20. Bernhard, *Extinction* ✅
 21. Beckett, *The Trilogy* (Re-read) ⏳
