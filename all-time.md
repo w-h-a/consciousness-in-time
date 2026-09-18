@@ -3,13 +3,13 @@
 ## Tier 1
 *Favorite use of discovering consciousness through time.*
 
-1. **Correction** (Bernhard, 1975)
-2. **Extinction** (Bernhard, 1986)
+1. **Extinction** (Bernhard, 1986)
+2. **Concrete** (Bernhard, 1982)
 3. **The Melancholy of Resistance** (Krasznahorkai, 1989)
 4. **Sátántangó** (Krasznahorkai, 1985)
 5. **Watt** (Beckett, 1953)
-6. **Concrete** (Bernhard, 1982)
-7. **Trilogy of the Arts: The Loser / The Woodcutters / The Old Masters** (Bernhard, 1983-85)
+6. **The Woodcutters** (Bernhard, 1984)
+7. **The Old Masters** (Bernhard, 1985)
 8. **An Artist of the Floating World** (Ishiguro, 1986) 
 
 ## Tier 2
