@@ -3,8 +3,8 @@
 ## Tier 1
 *Favorite use of discovering consciousness through time.*
 
-1. **Extinction** (Bernhard, 1986)
-2. **Concrete** (Bernhard, 1982)
+1. **Concrete** (Bernhard, 1982)
+2. **Extinction** (Bernhard, 1986)
 3. **The Melancholy of Resistance** (Krasznahorkai, 1989)
 4. **Sátántangó** (Krasznahorkai, 1985)
 5. **Watt** (Beckett, 1953)

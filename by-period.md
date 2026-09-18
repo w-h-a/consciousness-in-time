@@ -35,8 +35,8 @@
 
 ## Contemporary (1980- )
 
-- Extinction, Bernhard, 1986
 - Concrete, Bernhard, 1982
+- Extinction, Bernhard, 1986
 - The Melancholy of Resistance, Krasznahorkai, 1989
 - Sátántangó, Krasznahorkai, 1985
 - Woodcutters, Bernhard, 1984
