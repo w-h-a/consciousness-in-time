@@ -35,12 +35,12 @@
 
 ## Contemporary (1980- )
 
-- Concrete, Bernhard, 1982
+- Wittgenstein's Nephew, Bernhard, 1982
 - Extinction, Bernhard, 1986
 - The Melancholy of Resistance, Krasznahorkai, 1989
 - Sátántangó, Krasznahorkai, 1985
+- Concrete, Bernhard, 1982
 - Trilogy of the Arts, Bernhard, 1983-85
-- Wittgenstein's Nephew, Bernhard, 1982
 - An Artist of the Floating World, Ishiguro, 1986
 - The Remains of the Day, Ishiguro, 1989
 - The Rings of Saturn, Sebald, 1995

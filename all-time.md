@@ -3,13 +3,13 @@
 ## Tier 1
 *Favorite use of discovering consciousness through time.*
 
-1. **Concrete** (Bernhard, 1982)
+1. **Wittgenstein's Nephew** (Bernhard, 1982)
 2. **Extinction** (Bernhard, 1986)
 3. **The Melancholy of Resistance** (Krasznahorkai, 1989)
 4. **Sátántangó** (Krasznahorkai, 1985)
 5. **Watt** (Beckett, 1953)
-6. **Trilogy of the Arts: The Loser / The Woodcutters / The Old Masters** (Bernhard, 1983-85)
-7. **Wittgenstein's Nephew** (Bernhard, 1982)
+6. **Concrete** (Bernhard, 1982)
+7. **Trilogy of the Arts: The Loser / The Woodcutters / The Old Masters** (Bernhard, 1983-85)
 8. **An Artist of the Floating World** (Ishiguro, 1986) 
 
 ## Tier 2
