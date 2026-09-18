@@ -39,8 +39,8 @@
 - Extinction, Bernhard, 1986
 - The Melancholy of Resistance, Krasznahorkai, 1989
 - Sátántangó, Krasznahorkai, 1985
-- Woodcutters, Bernhard, 1984
-- Old Masters, Bernhard, 1985
+- Trilogy of the Arts, Bernhard, 1983-85
+- Wittgenstein's Nephew, Bernhard, 1982
 - An Artist of the Floating World, Ishiguro, 1986
 - The Remains of the Day, Ishiguro, 1989
 - The Rings of Saturn, Sebald, 1995
