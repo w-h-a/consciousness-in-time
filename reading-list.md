@@ -20,14 +20,14 @@
 18. Bernhard, *Wittgenstein's Nephew* ✅
 19. Bernhard, *Trilogy of the Arts* ✅ 
 20. Bernhard, *Extinction* ✅
-21. Beckett, *The Trilogy* (Re-read) ⏳
+21. Beckett, *The Trilogy* (Re-read) ✅ 
 22. Beckett, *Watt* (Re-read) ⏳
-23. Joyce, *Dubliners* (Re-read)
-24. Joyce, *A Portrait of the Artist as a Young Man* 
-25. Faulkner, *As I Lay Dying*
-26. Faulkner, *The Sound and the Fury* 
-27. Nabokov, *Lolita*
-28. Nabokov, *Pale Fire* 
+23. Nabokov, *Pnin* 
+24. Nabokov, *Lolita*
+25. Joyce, *Dubliners* (Re-read)
+26. Joyce, *A Portrait of the Artist as a Young Man* 
+27. Faulkner, *As I Lay Dying*
+28. Faulkner, *The Sound and the Fury* 
 29. Hamsun, *Hunger* 
 30. Ford, *The Good Soldier* 
 31. Lispector, *Near to the Wild Heart*
