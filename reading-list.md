@@ -10,28 +10,28 @@
 8. Ishiguro, *The Remains of the Day* ✅
 9. Ishiguro, *Never Let Me Go* ✅ 
 10. Ishiguro, *Klara and the Sun* ✅
-11. Lem, *Solaris* ✅ 
-12. Lem, *Memoirs Found in a Bathtub* ✅
-13. Proust, *In Search of Lost Time, Vol 1, 2, ...* ⏸️ 
-14. Woolf, *To the Lighthouse* ✅
-15. Krasznahorkai, *Satantango* (Re-read) ✅
-16. Krasznahorkai, *Melancholy of Resistance* (Re-read) ✅
-17. Bernhard, *Concrete* ✅
-18. Bernhard, *Wittgenstein's Nephew* ✅
-19. Bernhard, *Trilogy of the Arts* ✅ 
-20. Bernhard, *Extinction* ✅
+11. Proust, *In Search of Lost Time, Vol 1, 2, ...* ⏸️ 
+12. Woolf, *To the Lighthouse* ✅
+13. Krasznahorkai, *Satantango* (Re-read) ✅
+14. Krasznahorkai, *Melancholy of Resistance* (Re-read) ✅
+15. Bernhard, *Concrete* ✅
+16. Bernhard, *Wittgenstein's Nephew* ✅
+17. Bernhard, *Trilogy of the Arts* ✅ 
+18. Bernhard, *Extinction* ✅
+19. Lem, *Solaris* ✅ 
+20. Lem, *Memoirs Found in a Bathtub* ✅
 21. Beckett, *The Trilogy* (Re-read) ✅ 
 22. Beckett, *Watt* (Re-read) ⏳
-23. Nabokov, *Pnin* 
-24. Nabokov, *Lolita*
-25. Joyce, *Dubliners* (Re-read)
-26. Joyce, *A Portrait of the Artist as a Young Man* 
-27. Faulkner, *As I Lay Dying*
-28. Faulkner, *The Sound and the Fury* 
-29. Hamsun, *Hunger* 
-30. Ford, *The Good Soldier* 
-31. Lispector, *Near to the Wild Heart*
-32. Lispector, *The Hour of the Star*
+23. Lispector, *Near to the Wild Heart* ⏳
+24. Lispector, *The Hour of the Star* ⏳
+25. Nabokov, *Pnin* 
+26. Nabokov, *Lolita*
+27. Joyce, *Dubliners* (Re-read)
+28. Joyce, *A Portrait of the Artist as a Young Man* 
+29. Faulkner, *As I Lay Dying*
+30. Faulkner, *The Sound and the Fury* 
+31. Hamsun, *Hunger* 
+32. Ford, *The Good Soldier* 
 33. Kafka, *Metamorphosis* (Re-read)
 34. Kafka, *The Trial* (Re-read)
 35. Camus, *The Stranger* (Re-read)
