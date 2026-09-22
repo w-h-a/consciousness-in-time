@@ -20,11 +20,11 @@
 18. Bernhard, *Extinction* ✅
 19. Lem, *Solaris* ✅ 
 20. Lem, *Memoirs Found in a Bathtub* ✅
-21. Beckett, *The Trilogy* (Re-read) ✅ 
-22. Beckett, *Watt* (Re-read) ⏳
+21. Beckett, *Watt* (Re-read) ✅
+22. Beckett, *The Trilogy* (Re-read) ✅ 
 23. Lispector, *Near to the Wild Heart* ⏳
 24. Lispector, *The Hour of the Star* ⏳
-25. Nabokov, *Pnin* 
+25. Nabokov, *Pnin* ⏳
 26. Nabokov, *Lolita*
 27. Joyce, *Dubliners* (Re-read)
 28. Joyce, *A Portrait of the Artist as a Young Man* 
