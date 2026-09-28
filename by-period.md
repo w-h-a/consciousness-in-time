@@ -1,10 +1,10 @@
 # Books by Period
 
-## Origins (Before 1700)
+## Before 1700
 
 - 
 
-## Rise of the Novel (1700-1799)
+## 18th Century
 
 - 
 
@@ -18,6 +18,8 @@
 
 ## Modernism
 
+- In Search of Lost Time, Proust, 1913-27
+- A Portrait of the Artist as a Young Man, Joyce, 1916
 - The Hunting Gun, Inoue, 1949
 - The Trial, Kafka, 1925
 - The Stranger, Camus, 1942
@@ -28,6 +30,7 @@
 ## Postwar
 
 - Memoirs Found in a Bathtub, Lem, 1961
+- Lolita, Nabokov, 1955
 - Solaris, Lem, 1961
 - The Catcher in the Rye, Salinger, 1951
 - On the Road, Kerouac, 1957
@@ -41,18 +44,18 @@
 - Concrete, Bernhard, 1982
 - Trilogy of the Arts, Bernhard, 1983-85
 - An Artist of the Floating World, Ishiguro, 1986
-- The Remains of the Day, Ishiguro, 1989
 - The Rings of Saturn, Sebald, 1995
+- The Remains of the Day, Ishiguro, 1989
 - Never Let Me Go, Ishiguro, 2005
 - Klara and the Sun, Ishiguro, 2021
 
 # Authors by Period
 
-## Origins (Before 1700)
+## Before 1700
 
 -
 
-## Rise of the Novel (1700-1799)
+## 18th Century
 
 -
 
@@ -66,6 +69,8 @@
 
 ## Modernism
 
+- Proust
+- Joyce
 - Inoue
 - Kafka
 - Camus
@@ -76,6 +81,7 @@
 ## Postwar
 
 - Lem
+- Nabokov
 - Salinger
 - Kerouac
 
