@@ -20,18 +20,18 @@
 18. Bernhard, *Extinction* ✅
 19. Lem, *Solaris* ✅ 
 20. Lem, *Memoirs Found in a Bathtub* ✅
-21. Beckett, *Watt* (Re-read) ✅
-22. Beckett, *The Trilogy* (Re-read) ✅ 
+21. Beckett, *Watt* (Re-read) ⏸️ 
+22. Beckett, *The Trilogy* ✅ 
 23. Lispector, *Near to the Wild Heart* ⏳
 24. Lispector, *The Hour of the Star* ⏳
-25. Nabokov, *Pnin* ⏳
-26. Nabokov, *Lolita*
-27. Joyce, *Dubliners* (Re-read)
-28. Joyce, *A Portrait of the Artist as a Young Man* 
-29. Faulkner, *As I Lay Dying*
-30. Faulkner, *The Sound and the Fury* 
-31. Hamsun, *Hunger* 
-32. Ford, *The Good Soldier* 
+25. Nabokov, *Lolita* ✅
+26. Nabokov, *Pnin* ✅
+27. Joyce, *Dubliners* (Re-read) ✅ 
+28. Joyce, *A Portrait of the Artist as a Young Man* ✅
+29. Faulkner, *As I Lay Dying* ⏳
+30. Faulkner, *The Sound and the Fury* ⏳
+31. Ford, *The Good Soldier* ⏳
+32. Hamsun, *Hunger* 
 33. Kafka, *Metamorphosis* (Re-read)
 34. Kafka, *The Trial* (Re-read)
 35. Camus, *The Stranger* (Re-read)
