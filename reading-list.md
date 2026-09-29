@@ -12,14 +12,14 @@
 10. Ishiguro, *Klara and the Sun* ✅
 11. Proust, *In Search of Lost Time, Vol 1, 2, ...* ⏸️ 
 12. Woolf, *To the Lighthouse* ✅
-13. Krasznahorkai, *Satantango* (Re-read) ✅
-14. Krasznahorkai, *Melancholy of Resistance* (Re-read) ✅
-15. Bernhard, *Concrete* ✅
-16. Bernhard, *Wittgenstein's Nephew* ✅
-17. Bernhard, *Trilogy of the Arts* ✅ 
-18. Bernhard, *Extinction* ✅
-19. Lem, *Solaris* ✅ 
-20. Lem, *Memoirs Found in a Bathtub* ✅
+13. Lem, *Solaris* ✅ 
+14. Lem, *Memoirs Found in a Bathtub* ✅
+15. Krasznahorkai, *Satantango* (Re-read) ✅
+16. Krasznahorkai, *Melancholy of Resistance* (Re-read) ✅
+17. Bernhard, *Concrete* ✅
+18. Bernhard, *Wittgenstein's Nephew* ✅
+19. Bernhard, *Trilogy of the Arts* ✅ 
+20. Bernhard, *Extinction* ✅
 21. Beckett, *Watt* (Re-read) ⏸️ 
 22. Beckett, *The Trilogy* ✅ 
 23. Lispector, *Near to the Wild Heart* ⏳
@@ -30,43 +30,43 @@
 28. Joyce, *A Portrait of the Artist as a Young Man* ✅
 29. Faulkner, *As I Lay Dying* ⏳
 30. Faulkner, *The Sound and the Fury* ⏳
-31. Ford, *The Good Soldier* ⏳
-32. Hamsun, *Hunger* 
-33. Kafka, *Metamorphosis* (Re-read)
-34. Kafka, *The Trial* (Re-read)
-35. Camus, *The Stranger* (Re-read)
-36. Camus, *The Plague* (Re-read)
-37. Cervantes, *Don Quixote* (**Before 1700**)
-38. Goethe, *The Sorrows of Young Werther* (**18th Century**)
-39. Austen, *Emma* (**19th Century**)
-40. Shelley, *Frankenstein* (Re-read)
-41. Brontë (Emily), *Wuthering Heights*
-42. Brontë (Charlotte), *Jane Eyre*
-43. Thackeray, *Vanity Fair*
-44. Hawthorne, *The Scarlet Letter*
-45. Flaubert, *Madame Bovary*
-46. Collins, *The Woman in White*
-47. Dostoevsky, *Crime and Punishment* (Re-read) 
-48. Dostoevsky, *Brothers Karamazov* (Re-read)
-49. Tolstoy, *War and Peace*
-50. Tolstoy, *Anna Karenina*
-51. Hugo, *Les Misérables*
-52. Eliot, *Middlemarch*
-53. Hardy, *Tess of the d'Urbervilles*
-54. Stoker, *Dracula* (Re-read)
-55. Conrad, *Heart of Darkness* (Re-read) (**Modernism**)
-56. Conrad, *Nostromo*
-57. Bely, *Petersburg*
-58. Wharton, *The Age of Innocence*
-59. Mann, *The Magic Mountain*
-60. Fitzgerald, *The Great Gatsby*
-61. Hemingway, *A Farewell to Arms* (Re-read)
-62. Hurston, *Their Eyes Were Watching God*
-63. Kawabata, *Snow Country*
-64. Steinbeck, *Grapes of Wrath* (Re-read)
-65. Lowry, *Under the Volcano*
-66. Wright, *Native Son*
-67. Borges, *Ficciones*
+31. Kafka, *Metamorphosis* (Re-read) ⏳
+32. Kafka, *The Trial* (Re-read) ⏳
+33. Hamsun, *Hunger* ⏳
+34. Ford, *The Good Soldier* ⏳
+35. Cervantes, *Don Quixote* (**Before 1700**)
+36. Goethe, *The Sorrows of Young Werther* (**18th Century**)
+37. Austen, *Emma* (**19th Century**)
+38. Shelley, *Frankenstein* (Re-read)
+39. Brontë (Emily), *Wuthering Heights*
+40. Brontë (Charlotte), *Jane Eyre*
+41. Thackeray, *Vanity Fair*
+42. Hawthorne, *The Scarlet Letter*
+43. Flaubert, *Madame Bovary*
+44. Collins, *The Woman in White*
+45. Dostoevsky, *Crime and Punishment* (Re-read) 
+46. Dostoevsky, *Brothers Karamazov* (Re-read)
+47. Tolstoy, *War and Peace*
+48. Tolstoy, *Anna Karenina*
+49. Hugo, *Les Misérables*
+50. Eliot, *Middlemarch*
+51. Hardy, *Tess of the d'Urbervilles*
+52. Stoker, *Dracula* (Re-read)
+53. Conrad, *Heart of Darkness* (Re-read) (**Modernism**)
+54. Conrad, *Nostromo*
+55. Bely, *Petersburg*
+56. Wharton, *The Age of Innocence*
+57. Mann, *The Magic Mountain*
+58. Fitzgerald, *The Great Gatsby*
+59. Hemingway, *A Farewell to Arms* (Re-read)
+60. Hurston, *Their Eyes Were Watching God*
+61. Kawabata, *Snow Country*
+62. Steinbeck, *Grapes of Wrath* (Re-read)
+63. Wright, *Native Son*
+64. Borges, *Ficciones*
+65. Camus, *The Stranger* (Re-read)
+66. Camus, *The Plague* (Re-read)
+67. Lowry, *Under the Volcano*
 68. Orwell, *1984* (Re-read)
 69. Ellison, *Invisible Man* (**Postwar**)
 70. Lampedusa, *The Leopard*
