@@ -33,8 +33,8 @@
 31. Kafka, *Metamorphosis* (Re-read) ⏳
 32. Kafka, *The Trial* (Re-read) ⏳
 33. Hamsun, *Hunger* ⏳
-34. Ford, *The Good Soldier* ⏳
-35. Cervantes, *Don Quixote* (**Before 1700**)
+34. Ford, *The Good Soldier* ✅
+35. Cervantes, *Don Quixote* (**Before 1700**) ⏳
 36. Goethe, *The Sorrows of Young Werther* (**18th Century**)
 37. Austen, *Emma* (**19th Century**)
 38. Shelley, *Frankenstein* (Re-read)
