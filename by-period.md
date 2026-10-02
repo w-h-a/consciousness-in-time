@@ -18,7 +18,6 @@
 
 ## Modernism
 
-- In Search of Lost Time, Proust, 1913-27
 - A Portrait of the Artist as a Young Man, Joyce, 1916
 - The Good Soldier, Ford, 1915
 - The Hunting Gun, Inoue, 1949
@@ -70,7 +69,6 @@
 
 ## Modernism
 
-- Proust
 - Joyce
 - Ford
 - Inoue
