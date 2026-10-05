@@ -18,6 +18,7 @@
 
 ## Modernism
 
+- As I Lay Dying, Faukner, 1930
 - A Portrait of the Artist as a Young Man, Joyce, 1916
 - The Good Soldier, Ford, 1915
 - The Hunting Gun, Inoue, 1949
@@ -42,10 +43,12 @@
 - The Melancholy of Resistance, Krasznahorkai, 1989
 - Sátántangó, Krasznahorkai, 1985
 - Concrete, Bernhard, 1982
-- Trilogy of the Arts, Bernhard, 1983-85
-- An Artist of the Floating World, Ishiguro, 1986
+- Woodcutters, Bernhard, 1984
 - The Rings of Saturn, Sebald, 1995
+- The Loser, Bernhard, 1983
+- An Artist of the Floating World, Ishiguro, 1986
 - The Remains of the Day, Ishiguro, 1989
+- Old Masters, Bernhard, 1985
 - Never Let Me Go, Ishiguro, 2005
 - Klara and the Sun, Ishiguro, 2021
 
@@ -69,6 +72,7 @@
 
 ## Modernism
 
+- Faulkner
 - Joyce
 - Ford
 - Inoue
@@ -89,5 +93,5 @@
 
 - Bernhard
 - Krasznahorkai
-- Ishiguro
 - Sebald
+- Ishiguro

@@ -22,14 +22,14 @@
 20. Bernhard, *Extinction* ✅
 21. Beckett, *Watt* (Re-read) ⏸️ 
 22. Beckett, *The Trilogy* ✅ 
-23. Lispector, *Near to the Wild Heart* ⏳
-24. Lispector, *The Hour of the Star* ⏳
+23. Lispector, *Near to the Wild Heart* (Long Wait) ⏳
+24. Lispector, *The Hour of the Star* (Long Wait) ⏳
 25. Nabokov, *Lolita* ✅
 26. Nabokov, *Pnin* ✅
 27. Joyce, *Dubliners* (Re-read) ✅ 
 28. Joyce, *A Portrait of the Artist as a Young Man* ✅
-29. Faulkner, *As I Lay Dying* ⏳
-30. Faulkner, *The Sound and the Fury* ⏳
+29. Faulkner, *As I Lay Dying* ✅
+30. Faulkner, *Go Down, Moses* ✅
 31. Kafka, *Metamorphosis* (Re-read) ⏳
 32. Kafka, *The Trial* (Re-read) ⏳
 33. Hamsun, *Hunger* ⏳
