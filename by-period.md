@@ -14,6 +14,7 @@
 - Great Expectations, Dickens, 1860-61
 - Adventures of Huckleberry Finn, Twain, 1884
 - Frankenstein, Shelley, 1818
+- The Red Badge of Courage, Crane 1895
 - Dracula, Stoker, 1897
 
 ## Modernism
@@ -68,6 +69,7 @@
 - Dickens
 - Twain
 - Shelley
+- Crane
 - Stoker
 
 ## Modernism
