@@ -43,14 +43,14 @@
 41. Thackeray, *Vanity Fair*
 42. Hawthorne, *The Scarlet Letter*
 43. Flaubert, *Madame Bovary*
-44. Collins, *The Woman in White*
-45. Dostoevsky, *Crime and Punishment* (Re-read) 
-46. Dostoevsky, *Brothers Karamazov* (Re-read)
-47. Tolstoy, *War and Peace*
-48. Tolstoy, *Anna Karenina*
-49. Hugo, *Les Misérables*
-50. Eliot, *Middlemarch*
-51. Hardy, *Tess of the d'Urbervilles*
+44. Dostoevsky, *Crime and Punishment* (Re-read) 
+45. Dostoevsky, *Brothers Karamazov* (Re-read)
+46. Tolstoy, *War and Peace*
+47. Tolstoy, *Anna Karenina*
+48. Hugo, *Les Misérables*
+49. Eliot, *Middlemarch*
+50. Hardy, *Tess of the d'Urbervilles*
+51. Crane, *The Red Badge of Courage* (Re-read)
 52. Stoker, *Dracula* (Re-read)
 53. Conrad, *Heart of Darkness* (Re-read) (**Modernism**)
 54. Conrad, *Nostromo*
