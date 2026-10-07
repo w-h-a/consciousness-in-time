@@ -32,21 +32,19 @@
 *Radically inventive but not in the manner above.*
 
 22. **The Trial** (Kafka, 1925) 
-23. **The Metamorphosis** (Kafka, 1915)
-24. **The Stranger** (Camus, 1942)
+23. **The Stranger** (Camus, 1942)
 
 ## Tier 4
 *Other superbly crafted novels.*
 
-25. **The Brothers Karamazov** (Dostoevsky, 1880)
-26. **Solaris** (Lem, 1961)
-27. **Great Expectations** (Dickens, 1860–61)
-28. **Adventures of Huckleberry Finn** (Twain, 1884)
-29. **1984** (Orwell, 1949)
-30. **The Grapes of Wrath** (Steinbeck, 1939)
-31. **A Farewell to Arms** (Hemingway, 1929)
-32. **Frankenstein** (Shelley, 1818)
-33. **The Red Badge of Courage** (Crane, 1895)
-34. **The Catcher in the Rye** (Salinger, 1951)
-35. **Dracula** (Stoker, 1897)
-36. **On the Road** (Kerouac, 1957)
+24. **Solaris** (Lem, 1961)
+25. **Great Expectations** (Dickens, 1860–61)
+26. **Adventures of Huckleberry Finn** (Twain, 1884)
+27. **1984** (Orwell, 1949)
+28. **The Grapes of Wrath** (Steinbeck, 1939)
+29. **A Farewell to Arms** (Hemingway, 1929)
+30. **Frankenstein** (Shelley, 1818)
+31. **The Red Badge of Courage** (Crane, 1895)
+32. **The Catcher in the Rye** (Salinger, 1951)
+33. **Dracula** (Stoker, 1897)
+34. **On the Road** (Kerouac, 1957)
