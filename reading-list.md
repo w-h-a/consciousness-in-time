@@ -41,9 +41,9 @@
 39. Brontë (Emily), *Wuthering Heights*
 40. Brontë (Charlotte), *Jane Eyre*
 41. Hawthorne, *The Scarlet Letter*
-42. Dickens, *Bleak House*
-43. Flaubert, *Madame Bovary*
-44. Collins, *The Woman in White*
+42. Flaubert, *Madame Bovary*
+43. Dickens, *Bleak House*
+44. Dickens, *Great Expectations* (Re-read)
 45. Dostoevsky, *Notes from Underground* (Re-read)
 46. Dostoevsky, *Crime and Punishment* (Re-read)
 47. Dostoevsky, *Brothers Karamazov* (Re-read)
