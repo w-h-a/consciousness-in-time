@@ -10,7 +10,7 @@
 5. **Sátántangó** (Krasznahorkai, 1985)
 6. **Memoirs Found in a Bathtub** (Lem, 1961)
 7. **Concrete** (Bernhard, 1982)
-8. **The Woodcutters** (Bernhard, 1984)
+8. **Woodcutters** (Bernhard, 1984)
 
 ## Tier 2
 
@@ -20,7 +20,7 @@
 12. **An Artist of the Floating World** (Ishiguro, 1986) 
 13. **The Remains of the Day** (Ishiguro, 1989) 
 14. **A Portrait of the Artist as a Young Man** (Joyce, 1916)
-15. **The Good Solider** (Ford, 1915)
+15. **The Good Soldier** (Ford, 1915)
 16. **Old Masters** (Bernhard, 1985)
 17. **The Hunting Gun** (Inoue, 1949)
 18. **Never Let Me Go** (Ishiguro, 2005)
@@ -40,7 +40,7 @@
 24. **Great Expectations** (Dickens, 1860–61)
 25. **Adventures of Huckleberry Finn** (Twain, 1884)
 26. **1984** (Orwell, 1949)
-27. **Grapes of Wrath** (Steinbeck, 1939)
+27. **The Grapes of Wrath** (Steinbeck, 1939)
 28. **A Farewell to Arms** (Hemingway, 1929)
 29. **Frankenstein** (Shelley, 1818)
 30. **The Red Badge of Courage** (Crane, 1895)

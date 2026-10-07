@@ -14,12 +14,12 @@
 - Great Expectations, Dickens, 1860-61
 - Adventures of Huckleberry Finn, Twain, 1884
 - Frankenstein, Shelley, 1818
-- The Red Badge of Courage, Crane 1895
+- The Red Badge of Courage, Crane, 1895
 - Dracula, Stoker, 1897
 
 ## Modernism
 
-- As I Lay Dying, Faukner, 1930
+- As I Lay Dying, Faulkner, 1930
 - A Portrait of the Artist as a Young Man, Joyce, 1916
 - The Good Soldier, Ford, 1915
 - The Hunting Gun, Inoue, 1949

@@ -20,7 +20,7 @@
 18. Bernhard, *Wittgenstein's Nephew* ✅
 19. Bernhard, *Trilogy of the Arts* ✅ 
 20. Bernhard, *Extinction* ✅
-21. Beckett, *Watt* (Re-read) ⏸️ 
+21. Beckett, *Watt* (Re-read) ✅ 
 22. Beckett, *The Trilogy* ✅ 
 23. Lispector, *Near to the Wild Heart* (Long Wait) ⏳
 24. Lispector, *The Hour of the Star* (Long Wait) ⏳
@@ -40,32 +40,32 @@
 38. Shelley, *Frankenstein* (Re-read)
 39. Brontë (Emily), *Wuthering Heights*
 40. Brontë (Charlotte), *Jane Eyre*
-41. Thackeray, *Vanity Fair*
-42. Hawthorne, *The Scarlet Letter*
+41. Hawthorne, *The Scarlet Letter*
+42. Dickens, *Bleak House*
 43. Flaubert, *Madame Bovary*
-44. Dostoevsky, *Crime and Punishment* (Re-read) 
-45. Dostoevsky, *Brothers Karamazov* (Re-read)
-46. Tolstoy, *War and Peace*
-47. Tolstoy, *Anna Karenina*
-48. Hugo, *Les Misérables*
-49. Eliot, *Middlemarch*
-50. Hardy, *Tess of the d'Urbervilles*
-51. Crane, *The Red Badge of Courage* (Re-read)
-52. Stoker, *Dracula* (Re-read)
-53. Conrad, *Heart of Darkness* (Re-read) (**Modernism**)
-54. Conrad, *Nostromo*
-55. Bely, *Petersburg*
-56. Wharton, *The Age of Innocence*
-57. Mann, *The Magic Mountain*
-58. Fitzgerald, *The Great Gatsby*
-59. Hemingway, *A Farewell to Arms* (Re-read)
-60. Hurston, *Their Eyes Were Watching God*
-61. Kawabata, *Snow Country*
-62. Steinbeck, *Grapes of Wrath* (Re-read)
-63. Wright, *Native Son*
-64. Borges, *Ficciones*
-65. Camus, *The Stranger* (Re-read)
-66. Camus, *The Plague* (Re-read)
+44. Collins, *The Woman in White*
+45. Dostoevsky, *Notes from Underground* (Re-read)
+46. Dostoevsky, *Crime and Punishment* (Re-read)
+47. Dostoevsky, *Brothers Karamazov* (Re-read)
+48. Tolstoy, *War and Peace*
+49. Tolstoy, *Anna Karenina*
+50. Eliot, *Middlemarch*
+51. Machado de Assis, *The Posthumous Memoirs of Brás Cubas*
+52. Crane, *The Red Badge of Courage* (Re-read)
+53. Stoker, *Dracula* (Re-read)
+54. James, *The Turn of the Screw*
+55. Conrad, *Heart of Darkness* (Re-read) (**Modernism**)
+56. Bely, *Petersburg*
+57. Cather, *My Ántonia*
+58. Wharton, *The Age of Innocence*
+59. Mann, *The Magic Mountain*
+60. Fitzgerald, *The Great Gatsby*
+61. Hemingway, *A Farewell to Arms* (Re-read)
+62. Hurston, *Their Eyes Were Watching God*
+63. Kawabata, *Snow Country*
+64. Steinbeck, *Grapes of Wrath* (Re-read)
+65. Borges, *Ficciones*
+66. Camus, *The Stranger* (Re-read)
 67. Lowry, *Under the Volcano*
 68. Orwell, *1984* (Re-read)
 69. Ellison, *Invisible Man* (**Postwar**)
@@ -74,7 +74,7 @@
 72. Fuentes, *The Death of Artemio Cruz*
 73. Bellow, *Herzog*
 74. García Márquez, *One Hundred Years of Solitude*
-75. Pynchon, *Gravity's Rainbow*
+75. Pynchon, *The Crying of Lot 49*
 76. Calvino, *If on a Winter's Night a Traveler*
 77. Kundera, *The Unbearable Lightness of Being* (**Contemporary**)
 78. Morrison, *Beloved*
