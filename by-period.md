@@ -10,6 +10,7 @@
 
 ## 19th Century
 
+- Notes from Underground, Dostoevsky, 1864
 - The Brothers Karamazov, Dostoevsky, 1880
 - Great Expectations, Dickens, 1860-61
 - Adventures of Huckleberry Finn, Twain, 1884
@@ -21,9 +22,11 @@
 
 - As I Lay Dying, Faulkner, 1930
 - A Portrait of the Artist as a Young Man, Joyce, 1916
+- Heart of Darkness, Conrad, 1899
 - The Good Soldier, Ford, 1915
 - The Hunting Gun, Inoue, 1949
 - The Trial, Kafka, 1925
+- The Metamorphosis, Kafka, 1915
 - The Stranger, Camus, 1942
 - 1984, Orwell, 1949
 - The Grapes of Wrath, Steinbeck, 1939
@@ -76,6 +79,7 @@
 
 - Faulkner
 - Joyce
+- Conrad
 - Ford
 - Inoue
 - Kafka
