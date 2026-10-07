@@ -30,7 +30,7 @@
 28. Joyce, *A Portrait of the Artist as a Young Man* ✅
 29. Faulkner, *As I Lay Dying* ✅
 30. Faulkner, *Go Down, Moses* ✅
-31. Kafka, *Metamorphosis* (Re-read) ⏳
+31. Kafka, *The Metamorphosis* (Re-read) ⏳
 32. Kafka, *The Trial* (Re-read) ⏳
 33. Hamsun, *Hunger* ⏳
 34. Ford, *The Good Soldier* ✅
@@ -56,13 +56,13 @@
 54. James, *The Turn of the Screw*
 55. Conrad, *Heart of Darkness* (Re-read) (**Modernism**)
 56. Bely, *Petersburg*
-57. Cather, *My Ántonia*
-58. Wharton, *The Age of Innocence*
-59. Mann, *The Magic Mountain*
-60. Fitzgerald, *The Great Gatsby*
-61. Hemingway, *A Farewell to Arms* (Re-read)
-62. Hurston, *Their Eyes Were Watching God*
-63. Kawabata, *Snow Country*
+57. Wharton, *The Age of Innocence*
+58. Mann, *The Magic Mountain*
+59. Fitzgerald, *The Great Gatsby*
+60. Hemingway, *A Farewell to Arms* (Re-read)
+61. Hurston, *Their Eyes Were Watching God*
+62. Kawabata, *Snow Country*
+63. Sartre, *Nausea*
 64. Steinbeck, *Grapes of Wrath* (Re-read)
 65. Borges, *Ficciones*
 66. Camus, *The Stranger* (Re-read)
