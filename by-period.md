@@ -36,6 +36,7 @@
 - Lolita, Nabokov, 1955
 - Solaris, Lem, 1961
 - The Catcher in the Rye, Salinger, 1951
+- To Kill a Mockingbird, Lee, 1960
 - On the Road, Kerouac, 1957
 
 ## Contemporary (1980- )
@@ -91,6 +92,7 @@
 - Lem
 - Nabokov
 - Salinger
+- Lee
 - Kerouac
 
 ## Contemporary (1980- )
