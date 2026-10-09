@@ -95,8 +95,8 @@
 93. Morrison, *Beloved*
 94. Baker, *The Mezzanine*
 95. Sebald, *The Emigrants*
-96. Krasznahorkai, *War and War*
-97. Krasznahorkai, *Baron Wenckheim's Homecoming*
-98. Ishiguro, *The Unconsoled*
+96. Ishiguro, *The Unconsoled*
+97. Krasznahorkai, *War and War*
+98. Krasznahorkai, *Baron Wenckheim's Homecoming*
 99. Bolaño, *By Night in Chile*
 100. Cusk, *Outline*
