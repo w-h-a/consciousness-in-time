@@ -34,7 +34,7 @@
 32. Kafka, *The Metamorphosis* (Re-read) ✅
 33. Kafka, *The Trial* (Re-read) ⏳
 34. Kafka, *The Castle*
-35. Hamsun, *Hunger*
+35. Hamsun, *Hunger* ⏳
 36. Pessoa, *The Book of Disquiet* (Long Wait) ⏳
 37. Ford, *The Good Soldier* ✅
 38. Bulgakov, *The Master and Margarita* (Long Wait) ⏳
@@ -44,7 +44,7 @@
 42. Shelley, *Frankenstein* (Re-read)
 43. Lermontov, *A Hero of Our Time*
 44. Brontë (Emily), *Wuthering Heights*
-45. Brontë (Charlotte), *Jane Eyre*
+45. Brontë (Charlotte), *Villette*
 46. Flaubert, *Madame Bovary*
 47. Dickens, *Bleak House*
 48. Dickens, *Great Expectations* (Re-read)
@@ -72,8 +72,8 @@
 70. Sartre, *Nausea*
 71. Steinbeck, *Grapes of Wrath* (Re-read)
 72. Trumbo, *Johnny Got His Gun*
-73. Camus, *The Stranger* (Re-read)
-74. Camus, *The Plague*
+73. Rhys, *Good Morning, Midnight*
+74. Camus, *The Stranger* (Re-read)
 75. Borges, *Ficciones*
 76. Orwell, *1984* (Re-read)
 77. Ellison, *Invisible Man* (**Postwar**)
