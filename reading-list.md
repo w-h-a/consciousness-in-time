@@ -10,7 +10,7 @@
 8. Ishiguro, *The Remains of the Day* ✅
 9. Ishiguro, *Never Let Me Go* ✅
 10. Ishiguro, *Klara and the Sun* ✅
-11. Proust, *In Search of Lost Time, Vol 1, 2, ...* ⏸️
+11. Proust, *In Search of Lost Time, Vol 1, 2, …* ⏸️
 12. Woolf, *To the Lighthouse* ✅
 13. Lem, *Solaris* ✅
 14. Lem, *Memoirs Found in a Bathtub* ✅
@@ -38,13 +38,13 @@
 36. Pessoa, *The Book of Disquiet* (Long Wait) ⏳
 37. Ford, *The Good Soldier* ✅
 38. Bulgakov, *The Master and Margarita* (Long Wait) ⏳
-39. Cervantes, *Don Quixote* (**Before 1700**) 
+39. Cervantes, *Don Quixote* (**Before 1700**)
 40. Goethe, *The Sorrows of Young Werther* (**18th Century**)
 41. Austen, *Emma* (**19th Century**)
 42. Shelley, *Frankenstein* (Re-read)
-43. Brontë (Emily), *Wuthering Heights*
-44. Brontë (Charlotte), *Jane Eyre*
-45. Hawthorne, *The Scarlet Letter*
+43. Lermontov, *A Hero of Our Time*
+44. Brontë (Emily), *Wuthering Heights*
+45. Brontë (Charlotte), *Jane Eyre*
 46. Flaubert, *Madame Bovary*
 47. Dickens, *Bleak House*
 48. Dickens, *Great Expectations* (Re-read)
@@ -67,24 +67,24 @@
 65. Mann, *The Magic Mountain*
 66. Fitzgerald, *The Great Gatsby*
 67. Hemingway, *A Farewell to Arms* (Re-read)
-68. Huxley, *Brave New World*
-69. Hurston, *Their Eyes Were Watching God*
-70. Kawabata, *Snow Country*
-71. Sartre, *Nausea*
-72. du Maurier, *Rebecca*
-73. Steinbeck, *Grapes of Wrath* (Re-read)
-74. Borges, *Ficciones*
-75. Camus, *The Stranger* (Re-read)
+68. Hurston, *Their Eyes Were Watching God*
+69. Kawabata, *Snow Country*
+70. Sartre, *Nausea*
+71. Steinbeck, *Grapes of Wrath* (Re-read)
+72. Trumbo, *Johnny Got His Gun*
+73. Camus, *The Stranger* (Re-read)
+74. Camus, *The Plague*
+75. Borges, *Ficciones*
 76. Orwell, *1984* (Re-read)
 77. Ellison, *Invisible Man* (**Postwar**)
 78. Rulfo, *Pedro Páramo*
 79. Camus, *The Fall*
 80. Lampedusa, *The Leopard*
-81. Achebe, *Things Fall Apart*
-82. Spark, *The Prime of Miss Jean Brodie*
-83. Nabokov, *Pale Fire*
-84. Fuentes, *The Death of Artemio Cruz*
-85. Vesaas, *The Ice Palace*
+81. Spark, *The Prime of Miss Jean Brodie*
+82. Nabokov, *Pale Fire*
+83. Fuentes, *The Death of Artemio Cruz*
+84. Vesaas, *The Ice Palace*
+85. Haushofer, *The Wall*
 86. Bellow, *Herzog*
 87. García Márquez, *One Hundred Years of Solitude*
 88. Pynchon, *The Crying of Lot 49*
@@ -98,5 +98,5 @@
 96. Ishiguro, *The Unconsoled*
 97. Krasznahorkai, *War and War*
 98. Krasznahorkai, *Baron Wenckheim's Homecoming*
-99. Bolaño, *By Night in Chile*
-100. Cusk, *Outline*
+99. Krasznahorkai, *Seiobo There Below*
+100. Bolaño, *By Night in Chile*
