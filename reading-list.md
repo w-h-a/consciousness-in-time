@@ -33,11 +33,11 @@
 31. Faulkner, *Go Down, Moses* ✅
 32. Kafka, *The Metamorphosis* (Re-read) ✅
 33. Kafka, *The Trial* (Re-read) ⏳
-34. Kafka, *The Castle*
-35. Hamsun, *Hunger* ⏳
+34. Kafka, *The Castle* ⏳
+35. Hamsun, *Hunger* ✅
 36. Pessoa, *The Book of Disquiet* (Long Wait) ⏳
 37. Ford, *The Good Soldier* ✅
-38. Bulgakov, *The Master and Margarita* (Long Wait) ⏳
+38. Bulgakov, *The Master and Margarita* ⏳
 39. Cervantes, *Don Quixote* (**Before 1700**)
 40. Goethe, *The Sorrows of Young Werther* (**18th Century**)
 41. Austen, *Emma* (**19th Century**)
@@ -92,9 +92,9 @@
 90. Calvino, *If on a Winter's Night a Traveler*
 91. Robinson, *Housekeeping* (**Contemporary**)
 92. Kundera, *The Unbearable Lightness of Being*
-93. Morrison, *Beloved*
-94. Baker, *The Mezzanine*
-95. Sebald, *The Emigrants*
+93. Baker, *The Mezzanine*
+94. Sebald, *The Emigrants*
+95. Fosse, *Melancholy*
 96. Ishiguro, *The Unconsoled*
 97. Krasznahorkai, *War and War*
 98. Krasznahorkai, *Baron Wenckheim's Homecoming*

@@ -10,6 +10,7 @@
 
 ## 19th Century
 
+- Hunger, Hamsun, 1890
 - Notes from Underground, Dostoevsky, 1864
 - Great Expectations, Dickens, 1860-61
 - Adventures of Huckleberry Finn, Twain, 1884
@@ -20,7 +21,8 @@
 ## Modernism
 
 - As I Lay Dying, Faulkner, 1930
-- A Portrait of the Artist as a Young Man, Joyce, 1916
+- Go Down, Moses, Faulkner, 1942
+- The Dead, Joyce, 1914
 - Heart of Darkness, Conrad, 1899
 - The Good Soldier, Ford, 1915
 - The Hunting Gun, Inoue, 1949
@@ -67,6 +69,7 @@
 
 ## 19th Century
 
+- Hamsun
 - Dostoevsky
 - Dickens
 - Twain
