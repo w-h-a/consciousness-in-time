@@ -37,66 +37,86 @@
 35. Hamsun, *Hunger* ✅
 36. Pessoa, *The Book of Disquiet* (Long Wait) ⏳
 37. Ford, *The Good Soldier* ✅
-38. Bulgakov, *The Master and Margarita* ⏳
+38. Bulgakov, *The Master and Margarita* (Long Wait) ⏳
 39. Cervantes, *Don Quixote* (**Before 1700**)
 40. Goethe, *The Sorrows of Young Werther* (**18th Century**)
 41. Austen, *Emma* (**19th Century**)
 42. Shelley, *Frankenstein* (Re-read)
-43. Lermontov, *A Hero of Our Time*
-44. Brontë (Emily), *Wuthering Heights*
-45. Brontë (Charlotte), *Villette*
-46. Flaubert, *Madame Bovary*
-47. Dickens, *Bleak House*
-48. Dickens, *Great Expectations* (Re-read)
-49. Dostoevsky, *Notes from Underground* (Re-read)
-50. Dostoevsky, *Crime and Punishment* (Re-read)
+43. Brontë (Emily), *Wuthering Heights*
+44. Brontë (Charlotte), *Jane Eyre*
+45. Flaubert, *Madame Bovary*
+46. Dickens, *Bleak House*
+47. Dickens, *Great Expectations* (Re-read)
+48. Dostoevsky, *Notes from Underground* (Re-read)
+49. Dostoevsky, *Crime and Punishment* (Re-read)
+50. Dostoevsky, *The Gambler*
 51. Dostoevsky, *A Gentle Creature*
 52. Dostoevsky, *Brothers Karamazov* (Re-read)
 53. Tolstoy, *War and Peace*
 54. Tolstoy, *Anna Karenina*
-55. Tolstoy, *The Death of Ivan Ilyich* (Long Wait) ⏳
+55. Tolstoy, *The Death of Ivan Ilyich*
 56. Eliot, *Middlemarch*
 57. Machado de Assis, *The Posthumous Memoirs of Brás Cubas*
 58. Crane, *The Red Badge of Courage* (Re-read)
 59. Stoker, *Dracula* (Re-read)
 60. James, *The Turn of the Screw*
 61. Conrad, *Heart of Darkness* (Re-read) (**Modernism**)
-62. Conrad, *Lord Jim*
-63. Wharton, *The Age of Innocence*
-64. Woolf, *Jacob's Room*
-65. Mann, *The Magic Mountain*
-66. Fitzgerald, *The Great Gatsby*
-67. Hemingway, *A Farewell to Arms* (Re-read)
-68. Hurston, *Their Eyes Were Watching God*
-69. Kawabata, *Snow Country*
-70. Sartre, *Nausea*
-71. Steinbeck, *Grapes of Wrath* (Re-read)
-72. Trumbo, *Johnny Got His Gun*
-73. Rhys, *Good Morning, Midnight*
-74. Camus, *The Stranger* (Re-read)
-75. Borges, *Ficciones*
-76. Orwell, *1984* (Re-read)
-77. Ellison, *Invisible Man* (**Postwar**)
-78. Rulfo, *Pedro Páramo*
-79. Camus, *The Fall*
-80. Lampedusa, *The Leopard*
-81. Spark, *The Prime of Miss Jean Brodie*
-82. Nabokov, *Pale Fire*
-83. Fuentes, *The Death of Artemio Cruz*
-84. Vesaas, *The Ice Palace*
-85. Haushofer, *The Wall*
-86. Bellow, *Herzog*
-87. García Márquez, *One Hundred Years of Solitude*
-88. Pynchon, *The Crying of Lot 49*
-89. Vonnegut, *Slaughterhouse-Five*
-90. Calvino, *If on a Winter's Night a Traveler*
-91. Robinson, *Housekeeping* (**Contemporary**)
-92. Kundera, *The Unbearable Lightness of Being*
-93. Baker, *The Mezzanine*
-94. Sebald, *The Emigrants*
-95. Fosse, *Melancholy*
-96. Ishiguro, *The Unconsoled*
-97. Krasznahorkai, *War and War*
-98. Krasznahorkai, *Baron Wenckheim's Homecoming*
-99. Krasznahorkai, *Seiobo There Below*
-100. Bolaño, *By Night in Chile*
+62. Conrad, *Nostromo*
+63. Musil, *The Confusions of Young Törless*
+64. Cather, *My Ántonia*
+65. Wharton, *The Age of Innocence*
+66. Woolf, *Jacob's Room*
+67. Mann, *The Magic Mountain*
+68. Zamyatin, *We*
+69. Fitzgerald, *The Great Gatsby*
+70. Hemingway, *The Sun Also Rises*
+71. Breton, *Nadja*
+72. Nabokov, *Despair*
+73. Nabokov, *Invitation to a Beheading*
+74. Bernanos, *The Diary of a Country Priest*
+75. Kawabata, *Snow Country*
+76. Sartre, *Nausea*
+77. Steinbeck, *Grapes of Wrath* (Re-read)
+78. Trumbo, *Johnny Got His Gun*
+79. Bioy Casares, *The Invention of Morel*
+80. Camus, *The Stranger* (Re-read)
+81. Orwell, *1984* (Re-read)
+82. Mishima, *Confessions of a Mask*
+83. Ellison, *Invisible Man* (**Postwar**)
+84. Rulfo, *Pedro Páramo*
+85. García Márquez, *Leaf Storm*
+86. Camus, *The Fall*
+87. Lampedusa, *The Leopard*
+88. Achebe, *Things Fall Apart*
+89. Nabokov, *Pale Fire*
+90. Fuentes, *The Death of Artemio Cruz*
+91. Vesaas, *The Ice Palace*
+92. Haushofer, *The Wall*
+93. Bellow, *Herzog*
+94. Isherwood, *A Single Man*
+95. Hrabal, *Dancing Lessons for the Advanced in Age*
+96. García Márquez, *One Hundred Years of Solitude*
+97. Pynchon, *The Crying of Lot 49*
+98. Salter, *A Sport and a Pastime*
+99. Adler, *Speedboat*
+100. Calvino, *If on a Winter's Night a Traveler*
+101. Robinson, *Housekeeping* (**Contemporary**)
+102. Maxwell, *So Long, See You Tomorrow*
+103. Kundera, *The Unbearable Lightness of Being*
+104. Baker, *The Mezzanine*
+105. Kertész, *Kaddish for an Unborn Child*
+106. Sebald, *The Emigrants*
+107. Fosse, *Boathouse*
+108. Fosse, *Melancholy*
+109. Ishiguro, *The Unconsoled*
+110. Ishiguro, *When We Were Orphans*
+111. Wallace, *The Pale King*
+112. Krasznahorkai, *War and War*
+113. Krasznahorkai, *Baron Wenckheim's Homecoming*
+114. Krasznahorkai, *Seiobo There Below*
+115. DeLillo, *The Body Artist*
+116. Cole, *Open City*
+117. Smith, *How to Be Both*
+118. Robinson, *Lila*
+119. Robinson, *Jack*
+120. Burns, *Milkman*
