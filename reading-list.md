@@ -38,8 +38,8 @@
 36. Pessoa, *The Book of Disquiet* (Long Wait) ⏳
 37. Ford, *The Good Soldier* ✅
 38. Bulgakov, *The Master and Margarita* (Long Wait) ⏳
-39. Cervantes, *Don Quixote* (**Before 1700**)
-40. Goethe, *The Sorrows of Young Werther* (**18th Century**)
+39. Cervantes, *Don Quixote* (**Before 1800**)
+40. Goethe, *The Sorrows of Young Werther*
 41. Austen, *Emma* (**19th Century**)
 42. Shelley, *Frankenstein* (Re-read)
 43. Brontë (Emily), *Wuthering Heights*
