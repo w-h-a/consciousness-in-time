@@ -33,7 +33,7 @@
 31. Faulkner, *Go Down, Moses* (1942) ✅
 32. Kafka, *The Metamorphosis* (1915) (Re-read) ✅
 33. Kafka, *The Trial* (1925) ⏳
-34. Kafka, *The Castle* (1926) ⏳
+34. Kafka, *The Castle* (1926) ✅
 35. Hamsun, *Hunger* (1890) ✅
 36. Pessoa, *The Book of Disquiet* (1913–35; pub. 1982) (Long Wait) ⏳
 37. Ford, *The Good Soldier* (1915) ✅
