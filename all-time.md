@@ -33,7 +33,7 @@
 ## Tier 3
 *Radically inventive but not in the manner above.*
 
-24. **The Trial** (Kafka, 1925) 
+24. **The Metamorphosis** (Kafka, 1915) 
 25. **Heart of Darkness** (Conrad, 1899)
 26. **The Stranger** (Camus, 1942)
 
