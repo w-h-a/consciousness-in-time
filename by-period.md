@@ -18,18 +18,16 @@
 ## Modernism (~1900–1945)
 
 - As I Lay Dying, Faulkner, 1930
+- The Metamorphosis, Kafka, 1915
 - The Good Soldier, Ford, 1915
-- Go Down, Moses, Faulkner, 1942
 - The Dead, Joyce, 1914
 - The Hunting Gun, Inoue, 1949
-- The Metamorphosis, Kafka, 1915
 - Heart of Darkness, Conrad, 1899
 - The Stranger, Camus, 1942
 - The Grapes of Wrath, Steinbeck, 1939
   
 ## Postwar (~1946–1979)
 
-- Memoirs Found in a Bathtub, Lem, 1961
 - Lolita, Nabokov, 1955
 - Solaris, Lem, 1961
 - 1984, Orwell, 1949
@@ -73,18 +71,18 @@
 ## Modernism (~1900–1945)
 
 - Faulkner
+- Kafka
 - Ford
 - Joyce
 - Inoue
-- Kafka
 - Conrad
 - Camus
 - Steinbeck
 
 ## Postwar (~1946–1979)
 
-- Lem
 - Nabokov
+- Lem
 - Orwell
 - Salinger
 - Kerouac
