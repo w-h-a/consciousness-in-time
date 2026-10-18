@@ -15,24 +15,24 @@
 - Adventures of Huckleberry Finn, Twain, 1884
 - Dracula, Stoker, 1897
 
-## Modernism (~1900–1949)
+## Modernism (~1900–1945)
 
 - As I Lay Dying, Faulkner, 1930
 - The Good Soldier, Ford, 1915
 - Go Down, Moses, Faulkner, 1942
 - The Dead, Joyce, 1914
 - The Hunting Gun, Inoue, 1949
-- The Trial, Kafka, 1925
+- The Metamorphosis, Kafka, 1915
 - Heart of Darkness, Conrad, 1899
 - The Stranger, Camus, 1942
-- 1984, Orwell, 1949
 - The Grapes of Wrath, Steinbeck, 1939
   
-## Postwar (~1950–1979)
+## Postwar (~1946–1979)
 
 - Memoirs Found in a Bathtub, Lem, 1961
 - Lolita, Nabokov, 1955
 - Solaris, Lem, 1961
+- 1984, Orwell, 1949
 - The Catcher in the Rye, Salinger, 1951
 - On the Road, Kerouac, 1957
 - To Kill a Mockingbird, Lee, 1960
@@ -70,7 +70,7 @@
 - Twain
 - Stoker
 
-## Modernism (~1900–1949)
+## Modernism (~1900–1945)
 
 - Faulkner
 - Ford
@@ -79,13 +79,13 @@
 - Kafka
 - Conrad
 - Camus
-- Orwell
 - Steinbeck
 
-## Postwar (~1950–1979)
+## Postwar (~1946–1979)
 
 - Lem
 - Nabokov
+- Orwell
 - Salinger
 - Kerouac
 - Lee
