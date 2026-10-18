@@ -1,14 +1,11 @@
 # Books by Period
 
-## Before 1700
+## Before 1800
 
 - 
-
-## 18th Century
-
 - 
 
-## 19th Century
+## 19th Century (1800–1899)
 
 - Notes from Underground, Dostoevsky, 1864
 - Hunger, Hamsun, 1890
@@ -18,7 +15,7 @@
 - Adventures of Huckleberry Finn, Twain, 1884
 - Dracula, Stoker, 1897
 
-## Modernism
+## Modernism (~1900–1949)
 
 - As I Lay Dying, Faulkner, 1930
 - The Good Soldier, Ford, 1915
@@ -31,7 +28,7 @@
 - 1984, Orwell, 1949
 - The Grapes of Wrath, Steinbeck, 1939
   
-## Postwar
+## Postwar (~1950–1979)
 
 - Memoirs Found in a Bathtub, Lem, 1961
 - Lolita, Nabokov, 1955
@@ -40,7 +37,7 @@
 - On the Road, Kerouac, 1957
 - To Kill a Mockingbird, Lee, 1960
 
-## Contemporary (1980- )
+## Contemporary (1980– )
 
 - Wittgenstein's Nephew, Bernhard, 1982
 - Extinction, Bernhard, 1986
@@ -58,15 +55,12 @@
 
 # Authors by Period
 
-## Before 1700
+## Before 1800
 
 -
-
-## 18th Century
-
 -
 
-## 19th Century
+## 19th Century (1800–1899)
 
 - Dostoevsky
 - Hamsun
@@ -76,7 +70,7 @@
 - Twain
 - Stoker
 
-## Modernism
+## Modernism (~1900–1949)
 
 - Faulkner
 - Ford
@@ -88,7 +82,7 @@
 - Orwell
 - Steinbeck
 
-## Postwar
+## Postwar (~1950–1979)
 
 - Lem
 - Nabokov
@@ -96,7 +90,7 @@
 - Kerouac
 - Lee
 
-## Contemporary (1980- )
+## Contemporary (1980– )
 
 - Bernhard
 - Krasznahorkai
