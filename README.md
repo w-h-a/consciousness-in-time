@@ -1,6 +1,6 @@
 # Consciousness in Time
 
-Reading Lists!
+Novel rankings!
 
 ## Lists
 
