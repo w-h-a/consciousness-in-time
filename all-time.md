@@ -31,22 +31,23 @@
 23. **Old Masters** (Bernhard, 1985)
 
 ## Tier 3
-*Radically inventive but not in the manner above.*
+*Extremely inventive but not in the manner above.*
 
-24. **The Trial** (Kafka, 1925)
-25. **Heart of Darkness** (Conrad, 1899)
-26. **The Stranger** (Camus, 1942)
+24. **Don Quixote** (Cervantes, 1605/1615)
+25. **The Trial** (Kafka, 1925)
+26. **Heart of Darkness** (Conrad, 1899)
+27. **The Stranger** (Camus, 1942)
 
 ## Tier 4
 *Other superbly crafted novels.*
 
-27. **Solaris** (Lem, 1961)
-28. **Great Expectations** (Dickens, 1860–61)
-29. **Frankenstein** (Shelley, 1818)
-30. **Adventures of Huckleberry Finn** (Twain, 1884)
-31. **1984** (Orwell, 1949)
-32. **The Catcher in the Rye** (Salinger, 1951)
-33. **The Grapes of Wrath** (Steinbeck, 1939)
-34. **On the Road** (Kerouac, 1957)
-35. **Dracula** (Stoker, 1897)
-36. **To Kill a Mockingbird** (Lee, 1960)
+28. **Solaris** (Lem, 1961)
+29. **Great Expectations** (Dickens, 1860–61)
+30. **Frankenstein** (Shelley, 1818)
+31. **Adventures of Huckleberry Finn** (Twain, 1884)
+32. **1984** (Orwell, 1949)
+33. **The Catcher in the Rye** (Salinger, 1951)
+34. **The Grapes of Wrath** (Steinbeck, 1939)
+35. **On the Road** (Kerouac, 1957)
+36. **Dracula** (Stoker, 1897)
+37. **To Kill a Mockingbird** (Lee, 1960)
