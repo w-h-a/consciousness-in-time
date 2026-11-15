@@ -39,8 +39,8 @@
 4. The Catcher in the Rye, Salinger, 1951
 5. On the Road, Kerouac, 1957
 6. To Kill a Mockingbird, Lee, 1960
-7. Pnin, Nabokov, 1957
-8. 
+7. The Hour of the Star, Lispector, 1977
+8. Pnin, Nabokov, 1957
 
 ## Contemporary (1980– )
 

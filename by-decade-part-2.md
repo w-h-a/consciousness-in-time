@@ -35,7 +35,8 @@
 
 ## 1970s 
 
-1. 
+1. The Hour of the Star, Lispector, 1977
+2. 
 
 ## 1980s 
 
