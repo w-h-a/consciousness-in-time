@@ -57,4 +57,6 @@
 11. The Loser, Bernhard, 1983
 12. Klara and the Sun, Ishiguro, 2021
 13. Old Masters, Bernhard, 1985
-14. A Pale View of Hills, Ishiguro, 1982
+14. Austerlitz, Sebald, 2001
+15. A Pale View of Hills, Ishiguro, 1982
+16. 
