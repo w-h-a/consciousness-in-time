@@ -33,13 +33,13 @@
   
 ## Postwar (~1946–1979)
 
-1. Lolita, Nabokov, 1955
-2. Solaris, Lem, 1961
-3. 1984, Orwell, 1949
-4. The Catcher in the Rye, Salinger, 1951
-5. On the Road, Kerouac, 1957
-6. To Kill a Mockingbird, Lee, 1960
-7. The Hour of the Star, Lispector, 1977
+1. The Hour of the Star, Lispector, 1977
+2. Lolita, Nabokov, 1955
+3. Solaris, Lem, 1961
+4. 1984, Orwell, 1949
+5. The Catcher in the Rye, Salinger, 1951
+6. On the Road, Kerouac, 1957
+7. To Kill a Mockingbird, Lee, 1960
 8. Pnin, Nabokov, 1957
 
 ## Contemporary (1980– )
