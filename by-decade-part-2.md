@@ -31,7 +31,7 @@
 1. Solaris, Lem, 1961 
 2. To Kill a Mockingbird, Lee, 1960 
 3. The Master and Margarita, Bulgakov, 1928–40, pub. 1967
-4. Memoirs Found in a Bathtub, Lem, 1961
+4. 
 
 ## 1970s 
 
