@@ -1,4 +1,4 @@
-# Books by Decade (Part I)
+# By Decade (Part I)
 
 ## 1840s
 

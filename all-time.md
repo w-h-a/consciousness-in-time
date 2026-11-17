@@ -1,4 +1,4 @@
-# All-Time Novels
+# All-Time Favorites
 
 ## Tier 1
 *Favorite use of discovering consciousness through time.*
