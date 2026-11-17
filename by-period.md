@@ -1,4 +1,4 @@
-# Books by Period
+# By Period
 
 ## Before 1800
 
