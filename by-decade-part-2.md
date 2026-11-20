@@ -4,6 +4,8 @@
 
 1. The Trial, Kafka, 1925 
 2. The Castle, Kafka, 1926 
+3. The Master and Margarita, Bulgakov, 1928–40, pub. 1967
+4. 
 
 ## 1930s 
 
@@ -30,8 +32,6 @@
 
 1. Solaris, Lem, 1961 
 2. To Kill a Mockingbird, Lee, 1960 
-3. The Master and Margarita, Bulgakov, 1928–40, pub. 1967
-4. 
 
 ## 1970s 
 

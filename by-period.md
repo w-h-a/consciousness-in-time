@@ -23,24 +23,28 @@
 3. The Metamorphosis, Kafka, 1915
 4. Light in August, Faulkner, 1932
 5. The Dead, Joyce, 1914
-6. The Hunting Gun, Inoue, 1949
-7. The Trial, Kafka, 1925
-8. Heart of Darkness, Conrad, 1899
-9. The Stranger, Camus, 1942
-10. The Grapes of Wrath, Steinbeck, 1939
+6. The Trial, Kafka, 1925
+7. Heart of Darkness, Conrad, 1899
+8. The Stranger, Camus, 1942
+9. The Grapes of Wrath, Steinbeck, 1939
+10. A Portrait of the Artist as a Young Man, Joyce, 1916
 11. Go Down, Moses, Faulkner, 1942
 12. The Castle, Kafka, 1926
+13. The Master and Margarita, Bulgakov, 1928–40, pub. 1967
+14. 
   
 ## Postwar (~1946–1979)
 
 1. The Hour of the Star, Lispector, 1977
 2. Lolita, Nabokov, 1955
-3. Solaris, Lem, 1961
-4. 1984, Orwell, 1949
-5. The Catcher in the Rye, Salinger, 1951
-6. On the Road, Kerouac, 1957
-7. To Kill a Mockingbird, Lee, 1960
-8. Pnin, Nabokov, 1957
+3. The Hunting Gun, Inoue, 1949
+4. Solaris, Lem, 1961
+5. 1984, Orwell, 1949
+6. The Catcher in the Rye, Salinger, 1951
+7. On the Road, Kerouac, 1957
+8. To Kill a Mockingbird, Lee, 1960
+9. Pnin, Nabokov, 1957
+10. 
 
 ## Contemporary (1980– )
 
