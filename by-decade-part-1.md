@@ -35,7 +35,7 @@
 
 ## 1910s 
 
-1. The Metamorphosis, Kafka, 1915 
-2. The Good Soldier, Ford, 1915 
+1. The Good Soldier, Ford, 1915 
+2. The Metamorphosis, Kafka, 1915 
 3. The Dead, Joyce, 1914 
 4. A Portrait of the Artist as a Young Man, Joyce, 1916 
