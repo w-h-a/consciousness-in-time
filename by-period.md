@@ -19,8 +19,8 @@
 ## Modernism (~1900–1945)
 
 1. As I Lay Dying, Faulkner, 1930
-2. The Metamorphosis, Kafka, 1915
-3. The Good Soldier, Ford, 1915
+2. The Good Soldier, Ford, 1915
+3. The Metamorphosis, Kafka, 1915
 4. Light in August, Faulkner, 1932
 5. The Dead, Joyce, 1914
 6. The Hunting Gun, Inoue, 1949
@@ -52,9 +52,9 @@
 6. Concrete, Bernhard, 1982
 7. An Artist of the Floating World, Ishiguro, 1986
 8. The Rings of Saturn, Sebald, 1995
-9. The Remains of the Day, Ishiguro, 1989
-10. Never Let Me Go, Ishiguro, 2005
-11. The Loser, Bernhard, 1983
-12. Old Masters, Bernhard, 1985
-13. Austerlitz, Sebald, 2001
+9. Austerlitz, Sebald, 2001
+10. The Remains of the Day, Ishiguro, 1989
+11. Never Let Me Go, Ishiguro, 2005
+12. The Loser, Bernhard, 1983
+13. Old Masters, Bernhard, 1985
 14. 
