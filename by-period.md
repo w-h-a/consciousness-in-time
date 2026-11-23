@@ -2,8 +2,8 @@
 
 ## Before 1800
 
-1. Don Quixote, Cervantes, 1605/1615
-2. 
+1. The Sorrows of Young Werther, Goethe, 1774
+2. Don Quixote, Cervantes, 1605/1615
 
 ## 19th Century (1800–1899)
 
