@@ -58,7 +58,11 @@
 8. The Rings of Saturn, Sebald, 1995
 9. Austerlitz, Sebald, 2001
 10. The Remains of the Day, Ishiguro, 1989
-11. Never Let Me Go, Ishiguro, 2005
-12. The Loser, Bernhard, 1983
-13. Old Masters, Bernhard, 1985
-14. 
+11. Gilead, Robinson, 2004
+12. Never Let Me Go, Ishiguro, 2005
+13. The Loser, Bernhard, 1983
+14. Old Masters, Bernhard, 1985
+15. A Pale View of Hills, Ishiguro, 1982
+16. Klara and the Sun, Ishiguro, 2021
+17. The Buried Giant, Ishiguro, 2015
+18. 
