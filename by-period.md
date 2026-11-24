@@ -1,10 +1,5 @@
 # By Period
 
-## Before 1800
-
-1. The Sorrows of Young Werther, Goethe, 1774
-2. Don Quixote, Cervantes, 1605/1615
-
 ## 19th Century (1800–1899)
 
 1. Notes from Underground, Dostoevsky, 1864
@@ -50,19 +45,21 @@
 
 1. Wittgenstein's Nephew, Bernhard, 1982
 2. Extinction, Bernhard, 1986
-3. The Melancholy of Resistance, Krasznahorkai, 1989
-4. Sátántangó, Krasznahorkai, 1985
-5. Woodcutters, Bernhard, 1984
-6. Concrete, Bernhard, 1982
-7. An Artist of the Floating World, Ishiguro, 1986
-8. The Rings of Saturn, Sebald, 1995
-9. Austerlitz, Sebald, 2001
-10. The Remains of the Day, Ishiguro, 1989
-11. Gilead, Robinson, 2004
-12. Never Let Me Go, Ishiguro, 2005
-13. The Loser, Bernhard, 1983
-14. Old Masters, Bernhard, 1985
-15. A Pale View of Hills, Ishiguro, 1982
-16. Klara and the Sun, Ishiguro, 2021
-17. The Buried Giant, Ishiguro, 2015
-18. 
+3. War and War, Krasznahorkai, 1999
+4. The Melancholy of Resistance, Krasznahorkai, 1989
+5. Sátántangó, Krasznahorkai, 1985
+6. Woodcutters, Bernhard, 1984
+7. Concrete, Bernhard, 1982
+8. An Artist of the Floating World, Ishiguro, 1986
+9. The Unconsoled, Ishiguro, 1995
+10. The Rings of Saturn, Sebald, 1995
+11. Austerlitz, Sebald, 2001
+12. The Remains of the Day, Ishiguro, 1989
+13. Gilead, Robinson, 2004
+14. Never Let Me Go, Ishiguro, 2005
+15. The Loser, Bernhard, 1983
+16. Old Masters, Bernhard, 1985
+17. A Pale View of Hills, Ishiguro, 1982
+18. Klara and the Sun, Ishiguro, 2021
+19. The Buried Giant, Ishiguro, 2015
+20. 

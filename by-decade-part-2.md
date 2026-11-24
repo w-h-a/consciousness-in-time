@@ -55,5 +55,7 @@
 
 ## 1990s
 
-1. The Rings of Saturn, Sebald, 1995
-2. 
+1. War and War, Krasznahorkai, 1999
+2. The Unconsoled, Ishiguro, 1995
+3. The Rings of Saturn, Sebald, 1995
+4. 
