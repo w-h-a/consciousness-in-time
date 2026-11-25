@@ -44,7 +44,7 @@
 32. **The Stranger** (Camus, 1942)
 
 ## Tier 4
-*Other superbly crafted novels.*
+*Other well-crafted novels.*
 
 33. **Solaris** (Lem, 1961)
 34. **Great Expectations** (Dickens, 1860–61)
