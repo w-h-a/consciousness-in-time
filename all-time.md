@@ -4,12 +4,12 @@
 *Favorite use of discovering consciousness through time.*
 
 1. **Wittgenstein's Nephew** (Bernhard, 1982)
-2. **Extinction** (Bernhard, 1986)
+2. **Woodcutters** (Bernhard, 1984)
 3. **War and War** (Krasznahorkai, 1999)
 4. **The Melancholy of Resistance** (Krasznahorkai, 1989)
 5. **Sátántangó** (Krasznahorkai, 1985)
 6. **Notes from Underground** (Dostoevsky, 1864)
-7. **Woodcutters** (Bernhard, 1984)
+7. **Extinction** (Bernhard, 1986)
 8. **Concrete** (Bernhard, 1982)
 9. **As I Lay Dying** (Faulkner, 1930)
 10. **An Artist of the Floating World** (Ishiguro, 1986)
@@ -44,7 +44,7 @@
 32. **The Stranger** (Camus, 1942)
 
 ## Tier 4
-*Other superbly crafted novels.*
+*Other well-crafted novels.*
 
 33. **Solaris** (Lem, 1961)
 34. **Great Expectations** (Dickens, 1860–61)

@@ -44,11 +44,11 @@
 ## Contemporary (1980– )
 
 1. Wittgenstein's Nephew, Bernhard, 1982
-2. Extinction, Bernhard, 1986
+2. Woodcutters, Bernhard, 1984
 3. War and War, Krasznahorkai, 1999
 4. The Melancholy of Resistance, Krasznahorkai, 1989
 5. Sátántangó, Krasznahorkai, 1985
-6. Woodcutters, Bernhard, 1984
+6. Extinction, Bernhard, 1986
 7. Concrete, Bernhard, 1982
 8. An Artist of the Floating World, Ishiguro, 1986
 9. The Unconsoled, Ishiguro, 1995

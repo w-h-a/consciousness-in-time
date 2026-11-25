@@ -41,10 +41,10 @@
 ## 1980s 
 
 1. Wittgenstein's Nephew, Bernhard, 1982 
-2. Extinction, Bernhard, 1986 
+2. Woodcutters, Bernhard, 1984 
 3. The Melancholy of Resistance, Krasznahorkai, 1989 
 4. Sátántangó, Krasznahorkai, 1985 
-5. Woodcutters, Bernhard, 1984 
+5. Extinction, Bernhard, 1986 
 6. Concrete, Bernhard, 1982 
 7. An Artist of the Floating World, Ishiguro, 1986 
 8. The Remains of the Day, Ishiguro, 1989
