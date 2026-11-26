@@ -45,8 +45,8 @@
 3. The Melancholy of Resistance, Krasznahorkai, 1989 
 4. Sátántangó, Krasznahorkai, 1985 
 5. Extinction, Bernhard, 1986 
-6. Concrete, Bernhard, 1982 
-7. An Artist of the Floating World, Ishiguro, 1986 
+6. An Artist of the Floating World, Ishiguro, 1986 
+7. Concrete, Bernhard, 1982 
 8. The Remains of the Day, Ishiguro, 1989
 9. The Loser, Bernhard, 1983 
 10. Old Masters, Bernhard, 1985 
@@ -56,6 +56,6 @@
 ## 1990s
 
 1. War and War, Krasznahorkai, 1999
-2. The Unconsoled, Ishiguro, 1995
-3. The Rings of Saturn, Sebald, 1995
+2. The Rings of Saturn, Sebald, 1995
+3. The Unconsoled, Ishiguro, 1995
 4. 

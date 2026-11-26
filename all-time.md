@@ -10,11 +10,11 @@
 5. **Sátántangó** (Krasznahorkai, 1985)
 6. **Notes from Underground** (Dostoevsky, 1864)
 7. **Extinction** (Bernhard, 1986)
-8. **Concrete** (Bernhard, 1982)
-9. **As I Lay Dying** (Faulkner, 1930)
+8. **As I Lay Dying** (Faulkner, 1930)
+9. **The Rings of Saturn** (Sebald, 1995)
 10. **An Artist of the Floating World** (Ishiguro, 1986)
 11. **The Unconsoled** (Ishiguro, 1995) 
-12. **The Rings of Saturn** (Sebald, 1995)
+12. **Concrete** (Bernhard, 1982)
 
 ## Tier 2
 
