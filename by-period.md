@@ -49,10 +49,10 @@
 4. The Melancholy of Resistance, Krasznahorkai, 1989
 5. Sátántangó, Krasznahorkai, 1985
 6. Extinction, Bernhard, 1986
-7. Concrete, Bernhard, 1982
+7. The Rings of Saturn, Sebald, 1995
 8. An Artist of the Floating World, Ishiguro, 1986
 9. The Unconsoled, Ishiguro, 1995
-10. The Rings of Saturn, Sebald, 1995
+10. Concrete, Bernhard, 1982
 11. Austerlitz, Sebald, 2001
 12. The Remains of the Day, Ishiguro, 1989
 13. Gilead, Robinson, 2004
