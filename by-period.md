@@ -36,9 +36,9 @@
 4. Solaris, Lem, 1961
 5. 1984, Orwell, 1949
 6. The Catcher in the Rye, Salinger, 1951
-7. On the Road, Kerouac, 1957
-8. To Kill a Mockingbird, Lee, 1960
-9. Pnin, Nabokov, 1957
+7. Pnin, Nabokov, 1957
+8. On the Road, Kerouac, 1957
+9. To Kill a Mockingbird, Lee, 1960
 10. 
 
 ## Contemporary (1980– )

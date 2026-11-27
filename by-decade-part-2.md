@@ -25,8 +25,8 @@
 
 1. Lolita, Nabokov, 1955
 2. The Catcher in the Rye, Salinger, 1951 
-3. On the Road, Kerouac, 1957 
-4. Pnin, Nabokov, 1957 
+3. Pnin, Nabokov, 1957 
+4. On the Road, Kerouac, 1957 
 
 ## 1960s 
 
